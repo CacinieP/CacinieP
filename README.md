@@ -39,7 +39,6 @@
 | 💰 [FinancialBeancount](https://github.com/CacinieP/FinancialBeancount) | 基于 Beancount 的复式记账方案 |
 | 📝 [CICPA-Learning](https://github.com/CacinieP/CICPA-Learning) | 注册会计师开源学习手册 ⭐4 |
 | ⏱️ [cace-timer](https://github.com/CacinieP/cace-timer) | Minimal time tracking CLI with cute anime girl mascot |
-| 🔢 [MathFormula-OCR-PaddleOCR](https://github.com/CacinieP/MathFormula-OCR-PaddleOCR) | 数学公式 OCR：图片转 LaTeX — PaddleOCR Hackathon |
 
 ---
 
@@ -47,7 +46,7 @@
 
 ![CacinieP's Stats](https://github-readme-stats.vercel.app/api?username=CacinieP&show_icons=true&theme=vue&title_color=39c5bb&text_color=2ea9a3&icon_color=39c5bb&bg_color=00000000&hide_border=true&count_private=true)
 
-![CacinieP's Streak](https://github-readme-streak-stats.herokuapp.com?user=CacinieP&theme=highcontrast&hide_border=true&stroke=39c5bb&ring=39c5bb&fire=0ee8b7&currStreakLabel=39c5bb)
+![CacinieP's Streak](https://streak-stats.demolab.com?user=CacinieP&theme=highcontrast&hide_border=true&stroke=39c5bb&ring=39c5bb&fire=0ee8b7&currStreakLabel=39c5bb)
 
 ---
 
