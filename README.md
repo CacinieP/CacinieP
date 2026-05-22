@@ -5,7 +5,7 @@
 > *Linguist Wants Tech — 一个用代码写诗的语言学爱好者*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CacinieP&color=39c5bb&style=flat-square)
-![Followers](https://img.shields.io/github/followers/CacinieP?color=39c5bb&style=flat-square&label=Followers)
+![Followers](https://img.shields.io/github/followers/CacinieP.svg?style=flat-square&label=Followers&color=39c5bb)
 ![Stars](https://img.shields.io/badge/dynamic/json?color=39c5bb&label=Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/CacinieP&style=flat-square)
 
 ---
