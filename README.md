@@ -34,13 +34,12 @@
 
 | Project | Description |
 |---------|-------------|
-| 🍣 [kaitensushi-timemaster](https://github.com/CacinieP/kaitensushi-timemaster) | 回転寿司タイムマスター — 克服拖延症 |
-| 🤖 [AgentBench](https://github.com/CacinieP/AgentBench) | AI Agent 回归测试与质量保障平台 |
-| 📁 [TagResorter](https://github.com/CacinieP/TagResorter) | LLM 驱动的标签索引文件整理工具 |
-| ⌨️ [TeXada](https://github.com/CacinieP/TeXada) | Windows 原生 TeX 数学公式输入法 |
-| ⏱️ [cace-timer](https://github.com/CacinieP/cace-timer) | Minimal time tracking CLI |
+| 🌐 [network-troubleshoot-skill](https://github.com/CacinieP/network-troubleshoot-skill) | Universal network troubleshooting skill for 17+ AI coding agents |
+| 📚 [agent-skills-with-anthropic 中文教程](https://github.com/datawhalechina/agent-skills-with-anthropic) | Datawhale 吴恩达 agent-skills 课程中文翻译与知识整理 ⭐1140 |
+| 💰 [FinancialBeancount](https://github.com/CacinieP/FinancialBeancount) | 基于 Beancount 的复式记账方案 |
 | 📝 [CICPA-Learning](https://github.com/CacinieP/CICPA-Learning) | 注册会计师开源学习手册 ⭐4 |
-| 📚 [agent-skills-with-anthropic 中文教程](https://github.com/datawhalechina/agent-skills-with-anthropic) | Datawhale 吴恩达 agent-skills 课程中文翻译与知识整理 |
+| ⏱️ [cace-timer](https://github.com/CacinieP/cace-timer) | Minimal time tracking CLI with cute anime girl mascot |
+| 🔢 [MathFormula-OCR-PaddleOCR](https://github.com/CacinieP/MathFormula-OCR-PaddleOCR) | 数学公式 OCR：图片转 LaTeX — PaddleOCR Hackathon |
 
 ---
 
