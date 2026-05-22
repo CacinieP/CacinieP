@@ -44,7 +44,7 @@
 
 ### 📊 GitHub Stats
 
-![CacinieP's Stats](https://github-readme-stats.vercel.app/api?username=CacinieP&show_icons=true&theme=vue&title_color=39c5bb&text_color=2ea9a3&icon_color=39c5bb&bg_color=00000000&hide_border=true&count_private=true)
+![CacinieP's Stats](github-stats.svg)
 
 ![CacinieP's Streak](https://streak-stats.demolab.com?user=CacinieP&theme=highcontrast&hide_border=true&stroke=39c5bb&ring=39c5bb&fire=0ee8b7&currStreakLabel=39c5bb)
 
