@@ -44,8 +44,6 @@
 
 ### 📊 GitHub Stats
 
-![CacinieP's Stats](github-stats.svg)
-
 ![CacinieP's Streak](https://streak-stats.demolab.com?user=CacinieP&theme=highcontrast&hide_border=true&stroke=39c5bb&ring=39c5bb&fire=0ee8b7&currStreakLabel=39c5bb)
 
 ---
