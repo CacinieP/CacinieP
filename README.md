@@ -2,7 +2,7 @@
 
 # 🎵 CacinieP — 語碼 Cace
 
-> *Linguist Wants Tech — 一个用代码写诗的语言学家*
+> *Linguist Wants Tech — 一个用代码写诗的语言学爱好者*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CacinieP&color=39c5bb&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/CacinieP?color=39c5bb&style=flat-square&label=Followers)
