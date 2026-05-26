@@ -34,6 +34,7 @@
 
 | Project | Description |
 |---------|-------------|
+| ⌨️ [**Typing Master**](https://github.com/CacinieP/typing-master) | 多语言打字练习桌面应用 · 6 languages · Electron · [Download](https://github.com/CacinieP/typing-master/releases/latest) |
 | 🌐 [network-troubleshoot-skill](https://github.com/CacinieP/network-troubleshoot-skill) | Universal network troubleshooting skill for 17+ AI coding agents |
 | 📚 [agent-skills-with-anthropic 中文教程](https://github.com/datawhalechina/agent-skills-with-anthropic) | Datawhale 吴恩达 agent-skills 课程中文翻译与知识整理 ⭐1140 |
 | 💰 [FinancialBeancount](https://github.com/CacinieP/FinancialBeancount) | 基于 Beancount 的复式记账方案 |
