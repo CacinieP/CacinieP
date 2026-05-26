@@ -43,12 +43,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![CacinieP's Streak](https://streak-stats.demolab.com?user=CacinieP&theme=highcontrast&hide_border=true&stroke=39c5bb&ring=39c5bb&fire=0ee8b7&currStreakLabel=39c5bb)
-
----
-
 > *"Tell Your World"* — 初音ミク
 > 
 > *虚拟的声音，真实的感动。每一行代码，都是一首歌。* 🎵
