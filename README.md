@@ -1,79 +1,92 @@
-# CacinieP / Linguist Wants Tech
+<div align="center">
 
-> Building AI-agent tooling, language-learning systems, and practical developer utilities from a linguistics mindset.
+# CacinieP
+
+**Linguist Wants Tech** · 语言学人想做技术
+
+Building AI-agent tooling, cross-platform apps, and developer utilities from a linguistics mindset.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=CacinieP&color=39c5bb&style=flat-square)](https://github.com/CacinieP)
 [![Followers](https://img.shields.io/github/followers/CacinieP.svg?style=flat-square&label=Followers&color=39c5bb)](https://github.com/CacinieP?tab=followers)
-[![Stars](https://img.shields.io/badge/dynamic/json?color=39c5bb&label=Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/CacinieP&style=flat-square)](https://github.com/CacinieP?tab=repositories)
 
-## Focus
-
-- AI coding-agent workflows, evals, and troubleshooting skills
-- Language-learning tools that combine linguistics and interaction design
-- Small, local-first utilities for learning, finance, and productivity
-
-## Featured Work
-
-| Project | What it is | Status |
-|---|---|---|
-| [network-troubleshoot-skill](https://github.com/CacinieP/network-troubleshoot-skill) | Universal network troubleshooting skill for 17+ AI coding agents | Install scripts, bilingual docs |
-| [Typing Master](https://github.com/CacinieP/typing-master) | Multi-language typing practice desktop app for FR/ES/IT/PT/RU/JA | [Download latest release](https://github.com/CacinieP/typing-master/releases/latest) |
-| [cace-timer](https://github.com/CacinieP/cace-timer) | Minimal time-tracking CLI with a mascot and single-file local data | [npm: @cacinie/cace-timer](https://www.npmjs.com/package/@cacinie/cace-timer) |
-| [CICPA-Learning](https://github.com/CacinieP/CICPA-Learning) | Open learning handbook for China's CPA exam | 2026 exam timeline and subject notes |
-| [FinancialBeancount](https://github.com/CacinieP/FinancialBeancount) | Local Beancount converter and deduplicator for Chinese payment statements | Alipay, WeChat Pay, bank CSV/XLSX/PDF |
-| [agent-skills-with-anthropic](https://github.com/datawhalechina/agent-skills-with-anthropic) | Chinese course translation and learning notes for DeepLearning.AI agent skills | Datawhale community project |
-
-## Stack
-
-`TypeScript` `Python` `JavaScript` `Swift` `Rust` `Go` `C++`
-
-`React` `Next.js` `Vite` `Electron` `SwiftUI` `Tailwind CSS`
-
-`LLM Agents` `OpenAI/Anthropic APIs` `Whisper` `MLX` `CI/CD`
-
-## Links
-
-- Site: [linguistwantstech.com](https://linguistwantstech.com)
-- Resume: [caciniep.github.io/resume](https://caciniep.github.io/resume/)
-- GitHub: [github.com/CacinieP](https://github.com/CacinieP)
+</div>
 
 ---
 
-# CacinieP / 语言学人想做技术
+## 🛠 Featured Projects
 
-> 用语言学思维构建 AI Agent 工具、语言学习系统和实用开发者工具。
+### AI & Agent Tooling
 
-[![Profile Views](https://komarev.com/ghpvc/?username=CacinieP&color=39c5bb&style=flat-square)](https://github.com/CacinieP)
-[![Followers](https://img.shields.io/github/followers/CacinieP.svg?style=flat-square&label=Followers&color=39c5bb)](https://github.com/CacinieP?tab=followers)
-[![Stars](https://img.shields.io/badge/dynamic/json?color=39c5bb&label=Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/CacinieP&style=flat-square)](https://github.com/CacinieP?tab=repositories)
-
-## 专注方向
-
-- AI 编码 Agent 工作流、评测与排障技能
-- 融合语言学与交互设计的语言学习工具
-- 本地优先的小型学习、财务与效率工具
-
-## 代表项目
-
-| 项目 | 简介 | 状态 |
+| Project | Description | Stack |
 |---|---|---|
-| [network-troubleshoot-skill](https://github.com/CacinieP/network-troubleshoot-skill) | 通用网络排障技能，支持 17+ AI 编码 Agent | 安装脚本，双语文档 |
-| [Typing Master](https://github.com/CacinieP/typing-master) | 多语言打字练习桌面应用（法/西/意/葡/俄/日） | [下载最新版](https://github.com/CacinieP/typing-master/releases/latest) |
-| [cace-timer](https://github.com/CacinieP/cace-timer) | 极简时间追踪 CLI，带吉祥物和单文件本地数据 | [npm: @cacinie/cace-timer](https://www.npmjs.com/package/@cacinie/cace-timer) |
-| [CICPA-Learning](https://github.com/CacinieP/CICPA-Learning) | 注册会计师考试开源学习手册 | 2026 考试时间线与科目笔记 |
-| [FinancialBeancount](https://github.com/CacinieP/FinancialBeancount) | 本地 Beancount 转换去重工具，支持中国支付账单 | 支付宝、微信、银行 CSV/XLSX/PDF |
-| [agent-skills-with-anthropic](https://github.com/datawhalechina/agent-skills-with-anthropic) | DeepLearning.AI Agent 技能课程中文翻译与学习笔记 | Datawhale 社区项目 |
+| [**StepCode**](https://github.com/CacinieP/stepcode) | Terminal coding agent powered by StepFun — 17 tools, 4 permission modes, auto context compression | TypeScript |
+| [**DocMind**](https://github.com/CacinieP/DocMind) | ReAct Agent for intelligent document processing — MinerU integration, 7-tool pipeline, OpenAI-compatible | Python |
+| [**network-troubleshoot-skill**](https://github.com/CacinieP/network-troubleshoot-skill) | Universal network troubleshooting skill for 17+ AI coding agents | Shell |
+| [**TagResorter**](https://github.com/CacinieP/TagResorter) | LLM-driven tag-based file organizer — NTFS/inode tracking, MCP server, Web UI | Python |
+| [**ppt-skills**](https://github.com/CacinieP/ppt-skills) | Open-source PPTX generation skills — CJK-aware, themed, editable via PptxGenJS | JavaScript |
+| [**CompilerDev**](https://github.com/CacinieP/CompilerDev) | Auto-debug tool for compiled languages (C++/Java) — git worktree isolation, YAML-driven strategies | Go |
+| [**gemma-cace**](https://github.com/CacinieP/gemma-cace) | Minimal local coding agent powered by Ollama + Gemma with real function calling | Python |
 
-## 技术栈
+### Cross-Platform & Mobile Apps
 
-`TypeScript` `Python` `JavaScript` `Swift` `Rust` `Go` `C++`
+| Project | Description | Stack |
+|---|---|---|
+| [**FileSync**](https://github.com/CacinieP/file-sync) | LAN file transfer & real-time sync — mDNS discovery, BLAKE3 incremental, NOISE encryption | Rust · Tauri · Flutter |
+| [**AnyScan**](https://github.com/CacinieP/AnyScan) | AI document scanner — OpenCV edge detection, TFLite YOLO, multi-format export (PDF/JPEG) | Kotlin · Compose |
+| [**MindActivator**](https://github.com/CacinieP/MindActivator) | 12-week cognitive training app — 8 health modules, gamification, progress tracking | Flutter · Dart |
+| [**KaitenSushiTimeMaster**](https://github.com/CacinieP/KaitenSushiTimeMaster) | iOS focus timer — guardian system, sushi-belt metaphor, SwiftData persistence | Swift · SwiftUI |
+| [**NetAssist**](https://github.com/CacinieP/NetAssist) | Network diagnostics & monitoring desktop tool | Rust · Tauri |
 
-`React` `Next.js` `Vite` `Electron` `SwiftUI` `Tailwind CSS`
+### Web & Desktop Applications
 
-`LLM Agents` `OpenAI/Anthropic APIs` `Whisper` `MLX` `CI/CD`
+| Project | Description | Stack |
+|---|---|---|
+| [**EGOSYSTEM**](https://github.com/CacinieP/EGOSYSTEM) | Emotion-to-art app — StepFun multimodal, Three.js fluid viz, collective poetry wall | Next.js · Three.js |
+| [**GeniusTuber**](https://github.com/CacinieP/GeniusTuber) | AI video creation platform — GLM-4.7-Flash subtitle, title & tag generation | TypeScript · Python |
+| [**YOUU**](https://github.com/CacinieP/YOUU) | Dorm survival toolkit — multi-dimensional personality analysis, game theory matching | React Native |
+| [**PlotOS**](https://github.com/CacinieP/PlotOS) | Local-first CLI story creation — world-building, conflict graphs, narrative engine | TypeScript |
+| [**Typing Master**](https://github.com/CacinieP/typing-master) | Multi-language typing practice — FR/ES/IT/PT/RU/JA | JavaScript |
 
-## 链接
+### Open Source & Community
 
-- 网站：[linguistwantstech.com](https://linguistwantstech.com)
-- 简历：[caciniep.github.io/resume](https://caciniep.github.io/resume/)
-- GitHub：[github.com/CacinieP](https://github.com/CacinieP)
+| Project | Description | ★ |
+|---|---|---|
+| [**CICPA-Learning**](https://github.com/CacinieP/CICPA-Learning) | Open-source CPA exam handbook — 6 subjects, first-principles pedagogy | ★7 |
+| [**FinancialBeancount**](https://github.com/CacinieP/FinancialBeancount) | Beancount converter & deduplicator for Alipay, WeChat Pay, bank statements | ★2 |
+| [**MathConnect**](https://github.com/CacinieP/MathConnect) | Calculus connect puzzle for practicing equivalent infinitesimals | ★2 |
+| [**cace-timer**](https://github.com/CacinieP/cace-timer) | Minimal time-tracking CLI with mascot and single-file local data | ★2 |
+| [**MDIC26-Track3-Edu**](https://github.com/CacinieP/MDIC26-Track3-Edu) | AI teaching resource generation from textbooks — MinerU + LLM pipeline | ★1 |
+
+---
+
+## ⚡ Tech Stack
+
+**Languages:** `TypeScript` `Python` `Rust` `Go` `Swift` `Kotlin` `Dart` `C++`
+
+**Frontend:** `React` `Next.js` `Vite` `Electron` `Tauri` `SwiftUI` `Flutter` `Compose` `Tailwind`
+
+**AI/ML:** `LLM Agents` `OpenAI/Anthropic APIs` `MCP` `Whisper` `TFLite` `MLX`
+
+**Infra:** `CI/CD` `Docker` `PostgreSQL` `Redis` `MinIO`
+
+---
+
+## 🏆 Competitions
+
+- **MDIC 2026** — Data Intelligence & Frontier Corpus Challenge (Track 1/2/3)
+- **SOAR 2026** — MiniCPM Inference Acceleration
+- **PaddlePaddle Hackathon 10th** — Math Formula OCR with PaddleOCR
+
+---
+
+## 🔗 Links
+
+- 🌐 Site: [linguistwantstech.com](https://linguistwantstech.com)
+- 📄 Resume: [caciniep.github.io/resume](https://caciniep.github.io/resume/)
+- 🐙 GitHub: [github.com/CacinieP](https://github.com/CacinieP)
+
+---
+
+<div align="center">
+<i>用语言学思维构建 AI 工具、跨平台应用与开发者效率工具</i>
+</div>
