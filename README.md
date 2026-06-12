@@ -55,6 +55,19 @@ Building AI-agent tooling, language-learning systems, and practical developer ut
 
 ---
 
+## 🤝 Open Source Contributions
+
+Merged pull requests contributed to projects I don't own — 参与过的开源合并（6 PRs across 4 repos）.
+
+| Project | ★ | My merged PRs |
+|---|---|---|
+| [**awesome-cursorrules**](https://github.com/PatrickJS/awesome-cursorrules) | ★39.9k | [#292](https://github.com/PatrickJS/awesome-cursorrules/pull/292) — Network Troubleshooting skill (`.mdc` rule) |
+| [**agent-skills-with-anthropic**](https://github.com/datawhalechina/agent-skills-with-anthropic) | ★1.3k | [#1](https://github.com/datawhalechina/agent-skills-with-anthropic/pull/1) [#5](https://github.com/datawhalechina/agent-skills-with-anthropic/pull/5) [#8](https://github.com/datawhalechina/agent-skills-with-anthropic/pull/8) — course lessons & CN translation |
+| [**awesome-beancount**](https://github.com/siddhantgoel/awesome-beancount) | ★360 | [#76](https://github.com/siddhantgoel/awesome-beancount/pull/76) — Add FinancialBeancount |
+| [**Step-Realtime-CLI**](https://github.com/stepfun-ai/Step-Realtime-CLI) | ★25 | [#16](https://github.com/stepfun-ai/Step-Realtime-CLI/pull/16) — comprehensive test suite (848 tests) |
+
+---
+
 ## 🔗 Links
 
 - 🌐 Site: [linguistwantstech.com](https://linguistwantstech.com)
