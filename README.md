@@ -17,29 +17,29 @@ Building AI-agent tooling, language-learning systems, and practical developer ut
 
 ### AI & Agent Tooling
 
-| Project | Description | Stack |
-|---|---|---|
-| [**network-troubleshoot-skill**](https://github.com/CacinieP/network-troubleshoot-skill) | Universal network troubleshooting skill for 17+ AI coding agents | Shell |
-| [**ppt-skills**](https://github.com/CacinieP/ppt-skills) | Open-source PPTX generation skills — CJK-aware, themed, editable via PptxGenJS | JavaScript |
-| [**MDIC26-Track3-Edu**](https://github.com/CacinieP/MDIC26-Track3-Edu) | AI teaching resource generation from textbooks — MinerU + LLM pipeline | Python |
+| Project | Description | Stack | ★ |
+|---|---|---|---|
+| [**network-troubleshoot-skill**](https://github.com/CacinieP/network-troubleshoot-skill) | Universal network troubleshooting skill for 17+ AI coding agents | Shell | <!-- stars:CacinieP/network-troubleshoot-skill -->★1 |
+| [**ppt-skills**](https://github.com/CacinieP/ppt-skills) | Open-source PPTX generation skills — CJK-aware, themed, editable via PptxGenJS | JavaScript | <!-- stars:CacinieP/ppt-skills -->★5 |
+| [**MDIC26-Track3-Edu**](https://github.com/CacinieP/MDIC26-Track3-Edu) | AI teaching resource generation from textbooks — MinerU + LLM pipeline | Python | <!-- stars:CacinieP/MDIC26-Track3-Edu -->★1 |
 
 ### Desktop & CLI Tools
 
-| Project | Description | Stack |
-|---|---|---|
-| [**Typing Master**](https://github.com/CacinieP/typing-master) | Multi-language typing practice desktop app — FR/ES/IT/PT/RU/JA | JavaScript |
-| [**cace-timer**](https://github.com/CacinieP/cace-timer) | Minimal time-tracking CLI with mascot and single-file local data | TypeScript |
-| [**MathConnect**](https://github.com/CacinieP/MathConnect) | Calculus connect puzzle for practicing equivalent infinitesimals | JavaScript |
-| [**PyRecorder**](https://github.com/CacinieP/PyRecorder) | Probably the simplest screen recorder on Windows with Python only | Python |
+| Project | Description | Stack | ★ |
+|---|---|---|---|
+| [**Typing Master**](https://github.com/CacinieP/typing-master) | Multi-language typing practice desktop app — FR/ES/IT/PT/RU/JA | JavaScript | <!-- stars:CacinieP/typing-master -->★3 |
+| [**cace-timer**](https://github.com/CacinieP/cace-timer) | Minimal time-tracking CLI with mascot and single-file local data | TypeScript | <!-- stars:CacinieP/cace-timer -->★2 |
+| [**MathConnect**](https://github.com/CacinieP/MathConnect) | Calculus connect puzzle for practicing equivalent infinitesimals | JavaScript | <!-- stars:CacinieP/MathConnect -->★2 |
+| [**PyRecorder**](https://github.com/CacinieP/PyRecorder) | Probably the simplest screen recorder on Windows with Python only | Python | <!-- stars:CacinieP/PyRecorder -->★1 |
 
 ### Open Source & Community
 
 | Project | Description | ★ |
 |---|---|---|
-| [**CICPA-Learning**](https://github.com/CacinieP/CICPA-Learning) | Open-source CPA exam handbook — 6 subjects, first-principles pedagogy | ★7 |
-| [**FinancialBeancount**](https://github.com/CacinieP/FinancialBeancount) | Beancount converter & deduplicator for Alipay, WeChat Pay, bank statements | ★2 |
-| [**video-note-app**](https://github.com/CacinieP/video-note-app) | Video note generation tool powered by Gradio + Whisper | Python |
-| [**music-research**](https://github.com/CacinieP/music-research) | Music understanding & generation research: MIR, foundation models, edge deployment |
+| [**CICPA-Learning**](https://github.com/CacinieP/CICPA-Learning) | Open-source CPA exam handbook — 6 subjects, first-principles pedagogy | <!-- stars:CacinieP/CICPA-Learning -->★7 |
+| [**FinancialBeancount**](https://github.com/CacinieP/FinancialBeancount) | Beancount converter & deduplicator for Alipay, WeChat Pay, bank statements | <!-- stars:CacinieP/FinancialBeancount -->★2 |
+| [**video-note-app**](https://github.com/CacinieP/video-note-app) | Video note generation tool powered by Gradio + Whisper | <!-- stars:CacinieP/video-note-app -->★0 |
+| [**music-research**](https://github.com/CacinieP/music-research) | Music understanding & generation research: MIR, foundation models, edge deployment | <!-- stars:CacinieP/music-research -->★0 |
 
 ---
 

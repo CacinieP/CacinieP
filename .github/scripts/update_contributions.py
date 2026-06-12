@@ -21,12 +21,34 @@ HEADERS = {
 README = "README.md"
 MARK_START = "<!-- START: oss-contributions -->"
 MARK_END = "<!-- END: oss-contributions -->"
+# Persistent star markers: <!-- stars:owner/repo -->★<value>
+# The HTML comment is invisible when rendered but survives in the committed
+# file, so each run can refresh the ★ value that follows it.
+STAR_MARKER = re.compile(r"(<!--\s*stars:([\w.\-/]+?)\s*-->)★\S*")
+
+_STAR_CACHE = {}
 
 
 def api(url):
     req = urllib.request.Request(url, headers=HEADERS)
     with urllib.request.urlopen(req) as r:
         return json.load(r)
+
+
+def fetch_stars(full):
+    """Cached star count for 'owner/repo'. Returns None if unavailable."""
+    if full not in _STAR_CACHE:
+        try:
+            _STAR_CACHE[full] = api(f"https://api.github.com/repos/{full}")["stargazers_count"]
+        except Exception:
+            _STAR_CACHE[full] = None
+    return _STAR_CACHE[full]
+
+
+def fmt_stars(n):
+    if n is None:
+        return "—"
+    return f"★{n/1000:.1f}k" if n >= 1000 else f"★{n}"
 
 
 def search_merged_prs():
@@ -40,10 +62,6 @@ def search_merged_prs():
             break
         page += 1
     return items
-
-
-def fmt_stars(n):
-    return f"★{n/1000:.1f}k" if n >= 1000 else f"★{n}"
 
 
 def main():
@@ -60,10 +78,7 @@ def main():
         entry["prs"].append((it["number"], (it.get("title") or "").strip(), it["html_url"]))
 
     for full, entry in repos.items():
-        try:
-            entry["stars"] = api(f"https://api.github.com/repos/{full}")["stargazers_count"]
-        except Exception:
-            pass
+        entry["stars"] = fetch_stars(full) or 0
 
     ordered = sorted(repos.items(), key=lambda kv: kv[1]["stars"], reverse=True)
     total_prs = sum(len(e["prs"]) for _, e in ordered)
@@ -93,6 +108,16 @@ def main():
         print("ERROR: markers not found in README", file=sys.stderr)
         sys.exit(1)
     new = pattern.sub(f"{MARK_START}\n{block}\n{MARK_END}", text)
+
+    # Refresh every persistent star marker (keeps the comment, updates ★ value).
+    markers = set(STAR_MARKER.findall(new))
+    def _refresh(m):
+        comment, full = m.group(1), m.group(2)
+        return f"{comment}{fmt_stars(fetch_stars(full))}"
+    new = STAR_MARKER.sub(_refresh, new)
+    if markers:
+        print(f"Refreshed {len(markers)} star marker(s).")
+
     if new == text:
         print("No changes.")
         return
