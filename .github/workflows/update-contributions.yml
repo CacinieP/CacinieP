@@ -1,0 +1,39 @@
+name: Update OSS Contributions
+
+on:
+  schedule:
+    - cron: "17 3 * * *" # daily ~03:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/update-contributions.yml"
+      - ".github/scripts/update_contributions.py"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Regenerate contributions table
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: CacinieP
+        run: python .github/scripts/update_contributions.py
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore: auto-update OSS contributions table"
+            git push
+          fi
