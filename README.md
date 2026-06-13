@@ -68,7 +68,7 @@ _6 merged PRs across 4 repos · auto-updated daily._
 | [**awesome-cursorrules**](https://github.com/PatrickJS/awesome-cursorrules) | ★40.0k | [#292](https://github.com/PatrickJS/awesome-cursorrules/pull/292) — feat: add Network Troubleshooting skill (.mdc rule) |
 | [**agent-skills-with-anthropic**](https://github.com/datawhalechina/agent-skills-with-anthropic) | ★1.3k | [#1](https://github.com/datawhalechina/agent-skills-with-anthropic/pull/1) [#5](https://github.com/datawhalechina/agent-skills-with-anthropic/pull/5) [#8](https://github.com/datawhalechina/agent-skills-with-anthropic/pull/8) |
 | [**awesome-beancount**](https://github.com/siddhantgoel/awesome-beancount) | ★360 | [#76](https://github.com/siddhantgoel/awesome-beancount/pull/76) — Add FinancialBeancount - China multi-platform bill deduplication tool |
-| [**Step-Realtime-CLI**](https://github.com/stepfun-ai/Step-Realtime-CLI) | ★25 | [#16](https://github.com/stepfun-ai/Step-Realtime-CLI/pull/16) — test: add comprehensive test suite (848 tests, 11 files) |
+| [**Step-Realtime-CLI**](https://github.com/stepfun-ai/Step-Realtime-CLI) | ★26 | [#16](https://github.com/stepfun-ai/Step-Realtime-CLI/pull/16) — test: add comprehensive test suite (848 tests, 11 files) |
 <!-- END: oss-contributions -->
 
 ---
