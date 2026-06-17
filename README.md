@@ -37,7 +37,7 @@ Building AI-agent tooling, language-learning systems, and practical developer ut
 | Project | Description | ★ |
 |---|---|---|
 | [**CICPA-Learning**](https://github.com/CacinieP/CICPA-Learning) | Open-source CPA exam handbook — 6 subjects, first-principles pedagogy | <!-- stars:CacinieP/CICPA-Learning -->★7 |
-| [**FinancialBeancount**](https://github.com/CacinieP/FinancialBeancount) | Beancount converter & deduplicator for Alipay, WeChat Pay, bank statements | <!-- stars:CacinieP/FinancialBeancount -->★2 |
+| [**FinancialBeancount**](https://github.com/CacinieP/FinancialBeancount) | Beancount converter & deduplicator for Alipay, WeChat Pay, bank statements | <!-- stars:CacinieP/FinancialBeancount -->★3 |
 | [**video-note-app**](https://github.com/CacinieP/video-note-app) | Video note generation tool powered by Gradio + Whisper | <!-- stars:CacinieP/video-note-app -->★0 |
 | [**music-research**](https://github.com/CacinieP/music-research) | Music understanding & generation research: MIR, foundation models, edge deployment | <!-- stars:CacinieP/music-research -->★0 |
 
@@ -68,7 +68,7 @@ _6 merged PRs across 4 repos · auto-updated daily._
 | [**awesome-cursorrules**](https://github.com/PatrickJS/awesome-cursorrules) | ★40.0k | [#292](https://github.com/PatrickJS/awesome-cursorrules/pull/292) — feat: add Network Troubleshooting skill (.mdc rule) |
 | [**agent-skills-with-anthropic**](https://github.com/datawhalechina/agent-skills-with-anthropic) | ★1.3k | [#1](https://github.com/datawhalechina/agent-skills-with-anthropic/pull/1) [#5](https://github.com/datawhalechina/agent-skills-with-anthropic/pull/5) [#8](https://github.com/datawhalechina/agent-skills-with-anthropic/pull/8) |
 | [**awesome-beancount**](https://github.com/siddhantgoel/awesome-beancount) | ★363 | [#76](https://github.com/siddhantgoel/awesome-beancount/pull/76) — Add FinancialBeancount - China multi-platform bill deduplication tool |
-| [**Step-Realtime-CLI**](https://github.com/stepfun-ai/Step-Realtime-CLI) | ★27 | [#16](https://github.com/stepfun-ai/Step-Realtime-CLI/pull/16) — test: add comprehensive test suite (848 tests, 11 files) |
+| [**Step-Realtime-CLI**](https://github.com/stepfun-ai/Step-Realtime-CLI) | ★32 | [#16](https://github.com/stepfun-ai/Step-Realtime-CLI/pull/16) — test: add comprehensive test suite (848 tests, 11 files) |
 <!-- END: oss-contributions -->
 
 ---
