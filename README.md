@@ -36,7 +36,7 @@ Building AI-agent tooling, language-learning systems, and practical developer ut
 
 | Project | Description | ★ |
 |---|---|---|
-| [**CICPA-Learning**](https://github.com/CacinieP/CICPA-Learning) | Open-source CPA exam handbook — 6 subjects, first-principles pedagogy | <!-- stars:CacinieP/CICPA-Learning -->★7 |
+| [**CICPA-Learning**](https://github.com/CacinieP/CICPA-Learning) | Open-source CPA exam handbook — 6 subjects, first-principles pedagogy | <!-- stars:CacinieP/CICPA-Learning -->★9 |
 | [**FinancialBeancount**](https://github.com/CacinieP/FinancialBeancount) | Beancount converter & deduplicator for Alipay, WeChat Pay, bank statements | <!-- stars:CacinieP/FinancialBeancount -->★3 |
 | [**video-note-app**](https://github.com/CacinieP/video-note-app) | Video note generation tool powered by Gradio + Whisper | <!-- stars:CacinieP/video-note-app -->★0 |
 | [**music-research**](https://github.com/CacinieP/music-research) | Music understanding & generation research: MIR, foundation models, edge deployment | <!-- stars:CacinieP/music-research -->★0 |
