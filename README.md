@@ -44,8 +44,6 @@
 
 ## 🗂 More Projects
 
-较早的桌面/CLI 工具与研究笔记 — 仍在维护,只是退居后排。
-
 | 项目 | 简介 | Stack | ★ |
 |---|---|---|---|
 | [**typing-master**](https://github.com/CacinieP/typing-master) | 多语言打字练习桌面应用 — FR/ES/IT/PT/RU/JA | JavaScript | [![Stars](https://img.shields.io/github/stars/CacinieP/typing-master?style=flat-square&label=%20)](https://github.com/CacinieP/typing-master) |
