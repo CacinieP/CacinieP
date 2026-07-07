@@ -49,13 +49,15 @@ Older desktop/CLI tools and research notes — still maintained, now in the back
 
 ## ⚡ Tech Stack
 
-**Languages:** `TypeScript` `Python` `JavaScript` `Swift` `Rust` `Go` `Kotlin` `Dart` `C++`
+**Day-to-day:** `Python` `TypeScript` `JavaScript` — most of my repos are built on these.
 
-**Frontend:** `React` `Next.js` `Vite` `Electron` `Tauri` `SwiftUI` `Flutter` `Compose` `Tailwind`
+**Also worked with:** `Swift` `Rust` `Go` `Kotlin` `Dart` `C++` (small apps, side projects, learning).
 
-**AI/ML:** `LLM Agents` `OpenAI/Anthropic APIs` `MCP` `Whisper` `TFLite` `MLX`
+**Frontend I reach for:** `React` `Next.js` `Vite` `Electron` `Tauri` `Tailwind`.
 
-**Infra:** `CI/CD` `Docker` `PostgreSQL` `Redis` `MinIO`
+**AI/ML:** `LLM Agents` `OpenAI/Anthropic APIs` `MCP` `Whisper` `TFLite` `MLX`.
+
+**Infra:** `GitHub Actions` `Docker` `PostgreSQL` `Redis` `MinIO`.
 
 ---
 
