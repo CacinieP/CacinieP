@@ -4,7 +4,7 @@
 
 **Linguist Wants Tech**
 
-Building AI-agent tooling, language-learning systems, and practical developer utilities from a linguistics mindset.
+以语言学思维构建 AI Agent 工具、语言学习系统与实用开发者工具。
 
 [![Profile Views](https://komarev.com/ghpvc/?username=CacinieP&color=39c5bb&style=flat-square)](https://github.com/CacinieP)
 [![Followers](https://img.shields.io/github/followers/CacinieP.svg?style=flat-square&label=Followers&color=39c5bb)](https://github.com/CacinieP?tab=followers)
@@ -17,67 +17,67 @@ Building AI-agent tooling, language-learning systems, and practical developer ut
 
 ## 🤖 AI & Agent Tooling
 
-| Project | Description | Stack | ★ |
+| 项目 | 简介 | Stack | ★ |
 |---|---|---|---|
-| [**TeXada-the-Math-Agent**](https://github.com/CacinieP/TeXada-the-Math-Agent) | Math Formula Agent — LaTeX ↔ natural language, step-by-step reasoning | Python | [![Stars](https://img.shields.io/github/stars/CacinieP/TeXada-the-Math-Agent?style=flat-square&label=%20)](https://github.com/CacinieP/TeXada-the-Math-Agent) |
-| [**ppt-skills**](https://github.com/CacinieP/ppt-skills) | Open-source PPTX generation skills — CJK-aware, themed, editable via PptxGenJS | JavaScript | [![Stars](https://img.shields.io/github/stars/CacinieP/ppt-skills?style=flat-square&label=%20)](https://github.com/CacinieP/ppt-skills) |
-| [**video2knowledge**](https://github.com/CacinieP/video2knowledge) | 🎬 Video → timestamped subtitles → knowledge docs/HTML/Anki cards. Fully local inference (Ollama + faster-whisper) | Python | [![Stars](https://img.shields.io/github/stars/CacinieP/video2knowledge?style=flat-square&label=%20)](https://github.com/CacinieP/video2knowledge) |
-| [**network-troubleshoot-skill**](https://github.com/CacinieP/network-troubleshoot-skill) | Universal network troubleshooting skill for 17+ AI coding agents | Shell | [![Stars](https://img.shields.io/github/stars/CacinieP/network-troubleshoot-skill?style=flat-square&label=%20)](https://github.com/CacinieP/network-troubleshoot-skill) |
+| [**TeXada-the-Math-Agent**](https://github.com/CacinieP/TeXada-the-Math-Agent) | 数学公式 Agent — LaTeX ↔ 自然语言互转,逐步推理 | Python | [![Stars](https://img.shields.io/github/stars/CacinieP/TeXada-the-Math-Agent?style=flat-square&label=%20)](https://github.com/CacinieP/TeXada-the-Math-Agent) |
+| [**ppt-skills**](https://github.com/CacinieP/ppt-skills) | 开源 PPTX 生成技能 — 兼容 CJK、支持主题、基于 PptxGenJS 可编辑 | JavaScript | [![Stars](https://img.shields.io/github/stars/CacinieP/ppt-skills?style=flat-square&label=%20)](https://github.com/CacinieP/ppt-skills) |
+| [**video2knowledge**](https://github.com/CacinieP/video2knowledge) | 🎬 视频 → 带时间戳字幕 → 知识文档/HTML/Anki 卡片。完全本地推理(Ollama + faster-whisper) | Python | [![Stars](https://img.shields.io/github/stars/CacinieP/video2knowledge?style=flat-square&label=%20)](https://github.com/CacinieP/video2knowledge) |
+| [**network-troubleshoot-skill**](https://github.com/CacinieP/network-troubleshoot-skill) | 适用于 17+ AI 编程 Agent 的通用网络排障技能 | Shell | [![Stars](https://img.shields.io/github/stars/CacinieP/network-troubleshoot-skill?style=flat-square&label=%20)](https://github.com/CacinieP/network-troubleshoot-skill) |
 
 ## 📚 Math · AI · Learning
 
-| Project | Description | Stack | ★ |
+| 项目 | 简介 | Stack | ★ |
 |---|---|---|---|
 | [**math-to-deep-learning**](https://github.com/CacinieP/math-to-deep-learning) | 纯数学到深度学习：用应用数学串联数学知识与深度学习教程 — 同一个数学概念，从纸笔推导到 GPU 训练 | Markdown | [![Stars](https://img.shields.io/github/stars/CacinieP/math-to-deep-learning?style=flat-square&label=%20)](https://github.com/CacinieP/math-to-deep-learning) |
-| [**agent-self-evolution**](https://github.com/CacinieP/agent-self-evolution) | 🧬 Agent Self-Evolution research & practice archive — papers, surveys, reproductions, prototypes | Python | [![Stars](https://img.shields.io/github/stars/CacinieP/agent-self-evolution?style=flat-square&label=%20)](https://github.com/CacinieP/agent-self-evolution) |
-| [**CICPA-Learning**](https://github.com/CacinieP/CICPA-Learning) | Open-source CPA exam handbook — 6 subjects, first-principles pedagogy | Markdown | [![Stars](https://img.shields.io/github/stars/CacinieP/CICPA-Learning?style=flat-square&label=%20)](https://github.com/CacinieP/CICPA-Learning) |
+| [**agent-self-evolution**](https://github.com/CacinieP/agent-self-evolution) | 🧬 Agent 自演化研究与实战档案 — 论文、综述、复现、原型 | Python | [![Stars](https://img.shields.io/github/stars/CacinieP/agent-self-evolution?style=flat-square&label=%20)](https://github.com/CacinieP/agent-self-evolution) |
+| [**CICPA-Learning**](https://github.com/CacinieP/CICPA-Learning) | 开源 CPA 考试手册 — 6 科,第一性原理教学法 | Markdown | [![Stars](https://img.shields.io/github/stars/CacinieP/CICPA-Learning?style=flat-square&label=%20)](https://github.com/CacinieP/CICPA-Learning) |
 
 ## 🛠 Desktop & Network Tools
 
-| Project | Description | Stack | ★ |
+| 项目 | 简介 | Stack | ★ |
 |---|---|---|---|
-| [**NetAssist**](https://github.com/CacinieP/NetAssist) | Network diagnostics & monitoring desktop app — ping, DNS, port scan, traffic stats, built with Tauri | Rust / TS | [![Stars](https://img.shields.io/github/stars/CacinieP/NetAssist?style=flat-square&label=%20)](https://github.com/CacinieP/NetAssist) |
-| [**FinancialBeancount**](https://github.com/CacinieP/FinancialBeancount) | Beancount converter & deduplicator for Alipay, WeChat Pay, bank statements | Python | [![Stars](https://img.shields.io/github/stars/CacinieP/FinancialBeancount?style=flat-square&label=%20)](https://github.com/CacinieP/FinancialBeancount) |
+| [**NetAssist**](https://github.com/CacinieP/NetAssist) | 网络诊断与监控桌面应用 — ping、DNS、端口扫描、流量统计,基于 Tauri 构建 | Rust / TS | [![Stars](https://img.shields.io/github/stars/CacinieP/NetAssist?style=flat-square&label=%20)](https://github.com/CacinieP/NetAssist) |
+| [**FinancialBeancount**](https://github.com/CacinieP/FinancialBeancount) | Beancount 转换与去重工具 — 支持支付宝、微信支付、银行流水 | Python | [![Stars](https://img.shields.io/github/stars/CacinieP/FinancialBeancount?style=flat-square&label=%20)](https://github.com/CacinieP/FinancialBeancount) |
 
 ---
 
 ## 🗂 More Projects
 
-Older desktop/CLI tools and research notes — still maintained, now in the back row.
+较早的桌面/CLI 工具与研究笔记 — 仍在维护,只是退居后排。
 
-| Project | Description | Stack | ★ |
+| 项目 | 简介 | Stack | ★ |
 |---|---|---|---|
-| [**typing-master**](https://github.com/CacinieP/typing-master) | Multi-language typing practice desktop app — FR/ES/IT/PT/RU/JA | JavaScript | [![Stars](https://img.shields.io/github/stars/CacinieP/typing-master?style=flat-square&label=%20)](https://github.com/CacinieP/typing-master) |
-| [**cace-timer**](https://github.com/CacinieP/cace-timer) | Minimal time-tracking CLI with mascot and single-file local data | TypeScript | [![Stars](https://img.shields.io/github/stars/CacinieP/cace-timer?style=flat-square&label=%20)](https://github.com/CacinieP/cace-timer) |
-| [**MathConnect**](https://github.com/CacinieP/MathConnect) | Calculus connect puzzle for practicing equivalent infinitesimals | JavaScript | [![Stars](https://img.shields.io/github/stars/CacinieP/MathConnect?style=flat-square&label=%20)](https://github.com/CacinieP/MathConnect) |
-| [**PyRecorder**](https://github.com/CacinieP/PyRecorder) | Probably the simplest screen recorder on Windows with Python only | Python | [![Stars](https://img.shields.io/github/stars/CacinieP/PyRecorder?style=flat-square&label=%20)](https://github.com/CacinieP/PyRecorder) |
-| [**music-research**](https://github.com/CacinieP/music-research) | Music understanding & generation research: MIR, foundation models, edge deployment | — | [![Stars](https://img.shields.io/github/stars/CacinieP/music-research?style=flat-square&label=%20)](https://github.com/CacinieP/music-research) |
+| [**typing-master**](https://github.com/CacinieP/typing-master) | 多语言打字练习桌面应用 — FR/ES/IT/PT/RU/JA | JavaScript | [![Stars](https://img.shields.io/github/stars/CacinieP/typing-master?style=flat-square&label=%20)](https://github.com/CacinieP/typing-master) |
+| [**cace-timer**](https://github.com/CacinieP/cace-timer) | 极简计时 CLI — 带吉祥物,单文件本地存储 | TypeScript | [![Stars](https://img.shields.io/github/stars/CacinieP/cace-timer?style=flat-square&label=%20)](https://github.com/CacinieP/cace-timer) |
+| [**MathConnect**](https://github.com/CacinieP/MathConnect) | 微积分连线游戏 — 练习等价无穷小 | JavaScript | [![Stars](https://img.shields.io/github/stars/CacinieP/MathConnect?style=flat-square&label=%20)](https://github.com/CacinieP/MathConnect) |
+| [**PyRecorder**](https://github.com/CacinieP/PyRecorder) | 可能是 Windows 上最简单的录屏工具,纯 Python 实现 | Python | [![Stars](https://img.shields.io/github/stars/CacinieP/PyRecorder?style=flat-square&label=%20)](https://github.com/CacinieP/PyRecorder) |
+| [**music-research**](https://github.com/CacinieP/music-research) | 音乐理解与生成研究:MIR、基础模型、端侧部署 | — | [![Stars](https://img.shields.io/github/stars/CacinieP/music-research?style=flat-square&label=%20)](https://github.com/CacinieP/music-research) |
 
 ---
 
 ## ⚡ Tech Stack
 
-**Day-to-day:** `Python` `TypeScript` `JavaScript` — most of my repos are built on these.
+**日常使用:** `Python` `TypeScript` `JavaScript` — 大部分仓库都基于这几门语言。
 
-**Also worked with:** `Swift` `Rust` `Go` `Kotlin` `Dart` `C++` (small apps, side projects, learning).
+**也接触过:** `Swift` `Rust` `Go` `Kotlin` `Dart` `C++`(小型应用、副业项目、学习用)。
 
-**Frontend I reach for:** `React` `Next.js` `Vite` `Electron` `Tauri` `Tailwind`.
+**常用前端:** `React` `Next.js` `Vite` `Electron` `Tauri` `Tailwind`。
 
-**AI/ML:** `LLM Agents` `OpenAI/Anthropic APIs` `MCP` `Whisper` `TFLite` `MLX`.
+**AI/ML:** `LLM Agents` `OpenAI/Anthropic APIs` `MCP` `Whisper` `TFLite` `MLX`。
 
-**Infra:** `GitHub Actions` `Docker` `PostgreSQL` `Redis` `MinIO`.
+**基础设施:** `GitHub Actions` `Docker` `PostgreSQL` `Redis` `MinIO`。
 
 ---
 
 ## 🤝 Open Source Contributions
 
-Merged pull requests contributed to projects I don't own — 参与过的开源合并.
+向非本人维护的项目提交并被合并的 Pull Request。
 
 <!-- START: oss-contributions -->
 <!-- This block is auto-generated by .github/workflows/update-contributions.yml — do not edit by hand. -->
 _6 merged PRs across 4 repos · auto-updated daily._
 
-| Project | ★ | My merged PRs |
+| 项目 | ★ | 我被合并的 PR |
 |---|---|---|
 | [**awesome-cursorrules**](https://github.com/PatrickJS/awesome-cursorrules) | [![Stars](https://img.shields.io/github/stars/PatrickJS/awesome-cursorrules?style=flat-square&label=%20)](https://github.com/PatrickJS/awesome-cursorrules) | [#292](https://github.com/PatrickJS/awesome-cursorrules/pull/292) — feat: add Network Troubleshooting skill (.mdc rule) |
 | [**agent-skills-with-anthropic**](https://github.com/datawhalechina/agent-skills-with-anthropic) | [![Stars](https://img.shields.io/github/stars/datawhalechina/agent-skills-with-anthropic?style=flat-square&label=%20)](https://github.com/datawhalechina/agent-skills-with-anthropic) | [#1](https://github.com/datawhalechina/agent-skills-with-anthropic/pull/1) [#5](https://github.com/datawhalechina/agent-skills-with-anthropic/pull/5) [#8](https://github.com/datawhalechina/agent-skills-with-anthropic/pull/8) |
@@ -89,8 +89,8 @@ _6 merged PRs across 4 repos · auto-updated daily._
 
 ## 🔗 Links
 
-- 🌐 Site: [linguistwantstech.com](https://linguistwantstech.com)
-- 📄 Resume: [caciniep.github.io/resume](https://caciniep.github.io/resume/)
+- 🌐 网站: [linguistwantstech.com](https://linguistwantstech.com)
+- 📄 简历: [caciniep.github.io/resume](https://caciniep.github.io/resume/)
 - 🐙 GitHub: [github.com/CacinieP](https://github.com/CacinieP)
 
 ---
