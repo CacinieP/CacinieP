@@ -44,8 +44,6 @@ Building AI-agent tooling, language-learning systems, and practical developer ut
 
 ## 🗂 More Projects
 
-Older desktop/CLI tools and research notes — still maintained, now in the back row.
-
 | Project | Description | Stack | ★ |
 |---|---|---|---|
 | [**typing-master**](https://github.com/CacinieP/typing-master) | Multi-language typing practice desktop app — FR/ES/IT/PT/RU/JA | JavaScript | [![Stars](https://img.shields.io/github/stars/CacinieP/typing-master?style=flat-square&label=%20)](https://github.com/CacinieP/typing-master) |
