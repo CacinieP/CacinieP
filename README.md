@@ -2,7 +2,7 @@
 
 # CacinieP
 
-**Linguist Wants Tech** · 语言学人想做技术
+**Linguist Wants Tech**
 
 Building AI-agent tooling, language-learning systems, and practical developer utilities from a linguistics mindset.
 
