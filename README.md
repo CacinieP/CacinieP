@@ -9,6 +9,8 @@ Building AI-agent tooling, language-learning systems, and practical developer ut
 [![Profile Views](https://komarev.com/ghpvc/?username=CacinieP&color=39c5bb&style=flat-square)](https://github.com/CacinieP)
 [![Followers](https://img.shields.io/github/followers/CacinieP.svg?style=flat-square&label=Followers&color=39c5bb)](https://github.com/CacinieP?tab=followers)
 
+**🌐 语言 / Language:** **中文** · [English](./README.en.md)
+
 </div>
 
 ---
@@ -19,17 +21,17 @@ Building AI-agent tooling, language-learning systems, and practical developer ut
 |---|---|---|---|
 | [**TeXada-the-Math-Agent**](https://github.com/CacinieP/TeXada-the-Math-Agent) | Math Formula Agent — LaTeX ↔ natural language, step-by-step reasoning | Python | [![Stars](https://img.shields.io/github/stars/CacinieP/TeXada-the-Math-Agent?style=flat-square&label=%20)](https://github.com/CacinieP/TeXada-the-Math-Agent) |
 | [**ppt-skills**](https://github.com/CacinieP/ppt-skills) | Open-source PPTX generation skills — CJK-aware, themed, editable via PptxGenJS | JavaScript | [![Stars](https://img.shields.io/github/stars/CacinieP/ppt-skills?style=flat-square&label=%20)](https://github.com/CacinieP/ppt-skills) |
-| [**agent-self-evolution**](https://github.com/CacinieP/agent-self-evolution) | 🧬 Agent Self-Evolution research & practice archive: papers, surveys, reproductions, prototypes | Python | [![Stars](https://img.shields.io/github/stars/CacinieP/agent-self-evolution?style=flat-square&label=%20)](https://github.com/CacinieP/agent-self-evolution) |
 | [**video2knowledge**](https://github.com/CacinieP/video2knowledge) | 🎬 Video → timestamped subtitles → knowledge docs/HTML/Anki cards. Fully local inference (Ollama + faster-whisper) | Python | [![Stars](https://img.shields.io/github/stars/CacinieP/video2knowledge?style=flat-square&label=%20)](https://github.com/CacinieP/video2knowledge) |
 | [**network-troubleshoot-skill**](https://github.com/CacinieP/network-troubleshoot-skill) | Universal network troubleshooting skill for 17+ AI coding agents | Shell | [![Stars](https://img.shields.io/github/stars/CacinieP/network-troubleshoot-skill?style=flat-square&label=%20)](https://github.com/CacinieP/network-troubleshoot-skill) |
 
 ## 📚 Math · Education · Learning
 
-| Project | Description | ★ |
-|---|---|---|
-| [**math-to-deep-learning**](https://github.com/CacinieP/math-to-deep-learning) | 纯数学到深度学习：用应用数学串联数学知识与深度学习教程 — 同一个数学概念，从纸笔推导到 GPU 训练 | [![Stars](https://img.shields.io/github/stars/CacinieP/math-to-deep-learning?style=flat-square&label=%20)](https://github.com/CacinieP/math-to-deep-learning) |
-| [**CICPA-Learning**](https://github.com/CacinieP/CICPA-Learning) | Open-source CPA exam handbook — 6 subjects, first-principles pedagogy | [![Stars](https://img.shields.io/github/stars/CacinieP/CICPA-Learning?style=flat-square&label=%20)](https://github.com/CacinieP/CICPA-Learning) |
-| [**FinancialBeancount**](https://github.com/CacinieP/FinancialBeancount) | Beancount converter & deduplicator for Alipay, WeChat Pay, bank statements | [![Stars](https://img.shields.io/github/stars/CacinieP/FinancialBeancount?style=flat-square&label=%20)](https://github.com/CacinieP/FinancialBeancount) |
+| Project | Description | Stack | ★ |
+|---|---|---|---|
+| [**math-to-deep-learning**](https://github.com/CacinieP/math-to-deep-learning) | 纯数学到深度学习：用应用数学串联数学知识与深度学习教程 — 同一个数学概念，从纸笔推导到 GPU 训练 | Markdown | [![Stars](https://img.shields.io/github/stars/CacinieP/math-to-deep-learning?style=flat-square&label=%20)](https://github.com/CacinieP/math-to-deep-learning) |
+| [**agent-self-evolution**](https://github.com/CacinieP/agent-self-evolution) | 🧬 Agent Self-Evolution research & practice archive — papers, surveys, reproductions, prototypes | Python | [![Stars](https://img.shields.io/github/stars/CacinieP/agent-self-evolution?style=flat-square&label=%20)](https://github.com/CacinieP/agent-self-evolution) |
+| [**CICPA-Learning**](https://github.com/CacinieP/CICPA-Learning) | Open-source CPA exam handbook — 6 subjects, first-principles pedagogy | Markdown | [![Stars](https://img.shields.io/github/stars/CacinieP/CICPA-Learning?style=flat-square&label=%20)](https://github.com/CacinieP/CICPA-Learning) |
+| [**FinancialBeancount**](https://github.com/CacinieP/FinancialBeancount) | Beancount converter & deduplicator for Alipay, WeChat Pay, bank statements | Python | [![Stars](https://img.shields.io/github/stars/CacinieP/FinancialBeancount?style=flat-square&label=%20)](https://github.com/CacinieP/FinancialBeancount) |
 
 ## 🛠 Desktop & Network Tools
 
