@@ -19,7 +19,7 @@
 
 | 项目 | 简介 | Stack | ★ |
 |---|---|---|---|
-| [**TeXada-the-Math-Agent**](https://github.com/CacinieP/TeXada-the-Math-Agent) | 数学公式 Agent — LaTeX ↔ 自然语言互转,逐步推理 | Python | [![Stars](https://img.shields.io/github/stars/CacinieP/TeXada-the-Math-Agent?style=flat-square&label=%20)](https://github.com/CacinieP/TeXada-the-Math-Agent) |
+| [**TeXada-the-Math-Agent**](https://github.com/CacinieP/TeXada-the-Math-Agent) | 让数学公式书写便捷如说话 | Python | [![Stars](https://img.shields.io/github/stars/CacinieP/TeXada-the-Math-Agent?style=flat-square&label=%20)](https://github.com/CacinieP/TeXada-the-Math-Agent) |
 | [**ppt-skills**](https://github.com/CacinieP/ppt-skills) | 开源 PPTX 生成技能 — 兼容 CJK、支持主题、基于 PptxGenJS 可编辑 | JavaScript | [![Stars](https://img.shields.io/github/stars/CacinieP/ppt-skills?style=flat-square&label=%20)](https://github.com/CacinieP/ppt-skills) |
 | [**video2knowledge**](https://github.com/CacinieP/video2knowledge) | 🎬 视频 → 带时间戳字幕 → 知识文档/HTML/Anki 卡片。完全本地推理(Ollama + faster-whisper) | Python | [![Stars](https://img.shields.io/github/stars/CacinieP/video2knowledge?style=flat-square&label=%20)](https://github.com/CacinieP/video2knowledge) |
 | [**network-troubleshoot-skill**](https://github.com/CacinieP/network-troubleshoot-skill) | 适用于 17+ AI 编程 Agent 的通用网络排障技能 | Shell | [![Stars](https://img.shields.io/github/stars/CacinieP/network-troubleshoot-skill?style=flat-square&label=%20)](https://github.com/CacinieP/network-troubleshoot-skill) |

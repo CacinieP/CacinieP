@@ -19,7 +19,7 @@ Building AI-agent tooling, language-learning systems, and practical developer ut
 
 | Project | Description | Stack | ★ |
 |---|---|---|---|
-| [**TeXada-the-Math-Agent**](https://github.com/CacinieP/TeXada-the-Math-Agent) | Math Formula Agent — LaTeX ↔ natural language, step-by-step reasoning | Python | [![Stars](https://img.shields.io/github/stars/CacinieP/TeXada-the-Math-Agent?style=flat-square&label=%20)](https://github.com/CacinieP/TeXada-the-Math-Agent) |
+| [**TeXada-the-Math-Agent**](https://github.com/CacinieP/TeXada-the-Math-Agent) | Make writing math formulas as effortless as speaking | Python | [![Stars](https://img.shields.io/github/stars/CacinieP/TeXada-the-Math-Agent?style=flat-square&label=%20)](https://github.com/CacinieP/TeXada-the-Math-Agent) |
 | [**ppt-skills**](https://github.com/CacinieP/ppt-skills) | Open-source PPTX generation skills — CJK-aware, themed, editable via PptxGenJS | JavaScript | [![Stars](https://img.shields.io/github/stars/CacinieP/ppt-skills?style=flat-square&label=%20)](https://github.com/CacinieP/ppt-skills) |
 | [**video2knowledge**](https://github.com/CacinieP/video2knowledge) | 🎬 Video → timestamped subtitles → knowledge docs/HTML/Anki cards. Fully local inference (Ollama + faster-whisper) | Python | [![Stars](https://img.shields.io/github/stars/CacinieP/video2knowledge?style=flat-square&label=%20)](https://github.com/CacinieP/video2knowledge) |
 | [**network-troubleshoot-skill**](https://github.com/CacinieP/network-troubleshoot-skill) | Universal network troubleshooting skill for 17+ AI coding agents | Shell | [![Stars](https://img.shields.io/github/stars/CacinieP/network-troubleshoot-skill?style=flat-square&label=%20)](https://github.com/CacinieP/network-troubleshoot-skill) |
