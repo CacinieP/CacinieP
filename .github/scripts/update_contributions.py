@@ -4,6 +4,9 @@
 Fetches every merged PR authored by <USER>, drops PRs merged into the user's
 own repos, ranks the rest by repo stars, and rewrites the block fenced by
 <!-- START: oss-contributions --> ... <!-- END: oss-contributions -->.
+
+Star counts are rendered as live shields.io badges, so they stay current
+without any workflow rewriting them.
 """
 import json
 import os
@@ -21,10 +24,6 @@ HEADERS = {
 README = "README.md"
 MARK_START = "<!-- START: oss-contributions -->"
 MARK_END = "<!-- END: oss-contributions -->"
-# Persistent star markers: <!-- stars:owner/repo -->★<value>
-# The HTML comment is invisible when rendered but survives in the committed
-# file, so each run can refresh the ★ value that follows it.
-STAR_MARKER = re.compile(r"(<!--\s*stars:([\w.\-/]+?)\s*-->)★\S*")
 
 _STAR_CACHE = {}
 
@@ -36,19 +35,18 @@ def api(url):
 
 
 def fetch_stars(full):
-    """Cached star count for 'owner/repo'. Returns None if unavailable."""
+    """Cached star count for 'owner/repo'. Returns 0 if unavailable."""
     if full not in _STAR_CACHE:
         try:
-            _STAR_CACHE[full] = api(f"https://api.github.com/repos/{full}")["stargazers_count"]
+            _STAR_CACHE[full] = int(api(f"https://api.github.com/repos/{full}")["stargazers_count"])
         except Exception:
-            _STAR_CACHE[full] = None
+            _STAR_CACHE[full] = 0
     return _STAR_CACHE[full]
 
 
-def fmt_stars(n):
-    if n is None:
-        return "—"
-    return f"★{n/1000:.1f}k" if n >= 1000 else f"★{n}"
+def star_badge(full):
+    """Live shields.io badge for owner/repo (always current, no rewrite needed)."""
+    return f"[![Stars](https://img.shields.io/github/stars/{full}?style=flat-square&label=%20)](https://github.com/{full})"
 
 
 def search_merged_prs():
@@ -78,7 +76,7 @@ def main():
         entry["prs"].append((it["number"], (it.get("title") or "").strip(), it["html_url"]))
 
     for full, entry in repos.items():
-        entry["stars"] = fetch_stars(full) or 0
+        entry["stars"] = fetch_stars(full)
 
     ordered = sorted(repos.items(), key=lambda kv: kv[1]["stars"], reverse=True)
     total_prs = sum(len(e["prs"]) for _, e in ordered)
@@ -98,7 +96,7 @@ def main():
         else:
             pr_cell = " ".join(f"[#{n}]({u})" for n, _, u in prs)
         lines.append(
-            f"| [**{repo}**](https://github.com/{full}) | {fmt_stars(entry['stars'])} | {pr_cell} |"
+            f"| [**{repo}**](https://github.com/{full}) | {star_badge(full)} | {pr_cell} |"
         )
 
     block = "\n".join(lines)
@@ -108,15 +106,6 @@ def main():
         print("ERROR: markers not found in README", file=sys.stderr)
         sys.exit(1)
     new = pattern.sub(f"{MARK_START}\n{block}\n{MARK_END}", text)
-
-    # Refresh every persistent star marker (keeps the comment, updates ★ value).
-    markers = set(STAR_MARKER.findall(new))
-    def _refresh(m):
-        comment, full = m.group(1), m.group(2)
-        return f"{comment}{fmt_stars(fetch_stars(full))}"
-    new = STAR_MARKER.sub(_refresh, new)
-    if markers:
-        print(f"Refreshed {len(markers)} star marker(s).")
 
     if new == text:
         print("No changes.")
