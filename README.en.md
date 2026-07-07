@@ -24,20 +24,20 @@ Building AI-agent tooling, language-learning systems, and practical developer ut
 | [**video2knowledge**](https://github.com/CacinieP/video2knowledge) | 🎬 Video → timestamped subtitles → knowledge docs/HTML/Anki cards. Fully local inference (Ollama + faster-whisper) | Python | [![Stars](https://img.shields.io/github/stars/CacinieP/video2knowledge?style=flat-square&label=%20)](https://github.com/CacinieP/video2knowledge) |
 | [**network-troubleshoot-skill**](https://github.com/CacinieP/network-troubleshoot-skill) | Universal network troubleshooting skill for 17+ AI coding agents | Shell | [![Stars](https://img.shields.io/github/stars/CacinieP/network-troubleshoot-skill?style=flat-square&label=%20)](https://github.com/CacinieP/network-troubleshoot-skill) |
 
-## 📚 Math · Education · Learning
+## 📚 Math · AI · Learning
 
 | Project | Description | Stack | ★ |
 |---|---|---|---|
 | [**math-to-deep-learning**](https://github.com/CacinieP/math-to-deep-learning) | From pure math to deep learning — a tutorial series that bridges mathematical concepts with DL, from pen-and-paper derivation to GPU training | Markdown | [![Stars](https://img.shields.io/github/stars/CacinieP/math-to-deep-learning?style=flat-square&label=%20)](https://github.com/CacinieP/math-to-deep-learning) |
 | [**agent-self-evolution**](https://github.com/CacinieP/agent-self-evolution) | 🧬 Agent Self-Evolution research & practice archive — papers, surveys, reproductions, prototypes | Python | [![Stars](https://img.shields.io/github/stars/CacinieP/agent-self-evolution?style=flat-square&label=%20)](https://github.com/CacinieP/agent-self-evolution) |
 | [**CICPA-Learning**](https://github.com/CacinieP/CICPA-Learning) | Open-source CPA exam handbook — 6 subjects, first-principles pedagogy | Markdown | [![Stars](https://img.shields.io/github/stars/CacinieP/CICPA-Learning?style=flat-square&label=%20)](https://github.com/CacinieP/CICPA-Learning) |
-| [**FinancialBeancount**](https://github.com/CacinieP/FinancialBeancount) | Beancount converter & deduplicator for Alipay, WeChat Pay, bank statements | Python | [![Stars](https://img.shields.io/github/stars/CacinieP/FinancialBeancount?style=flat-square&label=%20)](https://github.com/CacinieP/FinancialBeancount) |
 
 ## 🛠 Desktop & Network Tools
 
 | Project | Description | Stack | ★ |
 |---|---|---|---|
 | [**NetAssist**](https://github.com/CacinieP/NetAssist) | Network diagnostics & monitoring desktop app — ping, DNS, port scan, traffic stats, built with Tauri | Rust / TS | [![Stars](https://img.shields.io/github/stars/CacinieP/NetAssist?style=flat-square&label=%20)](https://github.com/CacinieP/NetAssist) |
+| [**FinancialBeancount**](https://github.com/CacinieP/FinancialBeancount) | Beancount converter & deduplicator for Alipay, WeChat Pay, bank statements | Python | [![Stars](https://img.shields.io/github/stars/CacinieP/FinancialBeancount?style=flat-square&label=%20)](https://github.com/CacinieP/FinancialBeancount) |
 
 ---
 
