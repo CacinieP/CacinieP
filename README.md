@@ -31,6 +31,7 @@
 | [**math-to-deep-learning**](https://github.com/CacinieP/math-to-deep-learning) | 纯数学到深度学习：用应用数学串联数学知识与深度学习教程 — 同一个数学概念，从纸笔推导到 GPU 训练 | Markdown | [![Stars](https://img.shields.io/github/stars/CacinieP/math-to-deep-learning?style=flat-square&label=%20)](https://github.com/CacinieP/math-to-deep-learning) |
 | [**agent-self-evolution**](https://github.com/CacinieP/agent-self-evolution) | 🧬 Agent 自演化研究与实战档案 — 论文、综述、复现、原型 | Python | [![Stars](https://img.shields.io/github/stars/CacinieP/agent-self-evolution?style=flat-square&label=%20)](https://github.com/CacinieP/agent-self-evolution) |
 | [**CICPA-Learning**](https://github.com/CacinieP/CICPA-Learning) | 开源 CPA 考试手册 — 6 科,第一性原理教学法 | Markdown | [![Stars](https://img.shields.io/github/stars/CacinieP/CICPA-Learning?style=flat-square&label=%20)](https://github.com/CacinieP/CICPA-Learning) |
+| [**music-research**](https://github.com/CacinieP/music-research) | 🎵 音乐理解与生成研究 — MIR、音频基础模型、端侧部署、合规 | — | [![Stars](https://img.shields.io/github/stars/CacinieP/music-research?style=flat-square&label=%20)](https://github.com/CacinieP/music-research) |
 
 ## 🛠 Desktop & Network Tools
 
@@ -51,7 +52,6 @@
 | [**cace-timer**](https://github.com/CacinieP/cace-timer) | 极简计时 CLI — 带吉祥物,单文件本地存储 | TypeScript | [![Stars](https://img.shields.io/github/stars/CacinieP/cace-timer?style=flat-square&label=%20)](https://github.com/CacinieP/cace-timer) |
 | [**MathConnect**](https://github.com/CacinieP/MathConnect) | 微积分连线游戏 — 练习等价无穷小 | JavaScript | [![Stars](https://img.shields.io/github/stars/CacinieP/MathConnect?style=flat-square&label=%20)](https://github.com/CacinieP/MathConnect) |
 | [**PyRecorder**](https://github.com/CacinieP/PyRecorder) | 可能是 Windows 上最简单的录屏工具,纯 Python 实现 | Python | [![Stars](https://img.shields.io/github/stars/CacinieP/PyRecorder?style=flat-square&label=%20)](https://github.com/CacinieP/PyRecorder) |
-| [**music-research**](https://github.com/CacinieP/music-research) | 音乐理解与生成研究:MIR、基础模型、端侧部署 | — | [![Stars](https://img.shields.io/github/stars/CacinieP/music-research?style=flat-square&label=%20)](https://github.com/CacinieP/music-research) |
 
 ---
 
