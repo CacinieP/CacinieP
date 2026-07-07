@@ -31,6 +31,7 @@ Building AI-agent tooling, language-learning systems, and practical developer ut
 | [**math-to-deep-learning**](https://github.com/CacinieP/math-to-deep-learning) | From pure math to deep learning — a tutorial series that bridges mathematical concepts with DL, from pen-and-paper derivation to GPU training | Markdown | [![Stars](https://img.shields.io/github/stars/CacinieP/math-to-deep-learning?style=flat-square&label=%20)](https://github.com/CacinieP/math-to-deep-learning) |
 | [**agent-self-evolution**](https://github.com/CacinieP/agent-self-evolution) | 🧬 Agent Self-Evolution research & practice archive — papers, surveys, reproductions, prototypes | Python | [![Stars](https://img.shields.io/github/stars/CacinieP/agent-self-evolution?style=flat-square&label=%20)](https://github.com/CacinieP/agent-self-evolution) |
 | [**CICPA-Learning**](https://github.com/CacinieP/CICPA-Learning) | Open-source CPA exam handbook — 6 subjects, first-principles pedagogy | Markdown | [![Stars](https://img.shields.io/github/stars/CacinieP/CICPA-Learning?style=flat-square&label=%20)](https://github.com/CacinieP/CICPA-Learning) |
+| [**music-research**](https://github.com/CacinieP/music-research) | 🎵 Music understanding & generation research — MIR, audio foundation models, edge deployment, compliance | — | [![Stars](https://img.shields.io/github/stars/CacinieP/music-research?style=flat-square&label=%20)](https://github.com/CacinieP/music-research) |
 
 ## 🛠 Desktop & Network Tools
 
@@ -51,7 +52,6 @@ Older desktop/CLI tools and research notes — still maintained, now in the back
 | [**cace-timer**](https://github.com/CacinieP/cace-timer) | Minimal time-tracking CLI with mascot and single-file local data | TypeScript | [![Stars](https://img.shields.io/github/stars/CacinieP/cace-timer?style=flat-square&label=%20)](https://github.com/CacinieP/cace-timer) |
 | [**MathConnect**](https://github.com/CacinieP/MathConnect) | Calculus connect puzzle for practicing equivalent infinitesimals | JavaScript | [![Stars](https://img.shields.io/github/stars/CacinieP/MathConnect?style=flat-square&label=%20)](https://github.com/CacinieP/MathConnect) |
 | [**PyRecorder**](https://github.com/CacinieP/PyRecorder) | Probably the simplest screen recorder on Windows with Python only | Python | [![Stars](https://img.shields.io/github/stars/CacinieP/PyRecorder?style=flat-square&label=%20)](https://github.com/CacinieP/PyRecorder) |
-| [**music-research**](https://github.com/CacinieP/music-research) | Music understanding & generation research: MIR, foundation models, edge deployment | — | [![Stars](https://img.shields.io/github/stars/CacinieP/music-research?style=flat-square&label=%20)](https://github.com/CacinieP/music-research) |
 
 ---
 
