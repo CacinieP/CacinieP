@@ -13,33 +13,37 @@ Building AI-agent tooling, language-learning systems, and practical developer ut
 
 ---
 
-## 🛠 Featured Projects
-
-### AI & Agent Tooling
+## 🤖 AI & Agent Tooling
 
 | Project | Description | Stack | ★ |
 |---|---|---|---|
-| [**network-troubleshoot-skill**](https://github.com/CacinieP/network-troubleshoot-skill) | Universal network troubleshooting skill for 17+ AI coding agents | Shell | <!-- stars:CacinieP/network-troubleshoot-skill -->★1 |
-| [**ppt-skills**](https://github.com/CacinieP/ppt-skills) | Open-source PPTX generation skills — CJK-aware, themed, editable via PptxGenJS | JavaScript | <!-- stars:CacinieP/ppt-skills -->★5 |
-| [**MDIC26-Track3-Edu**](https://github.com/CacinieP/MDIC26-Track3-Edu) | AI teaching resource generation from textbooks — MinerU + LLM pipeline | Python | <!-- stars:CacinieP/MDIC26-Track3-Edu -->★1 |
+| [**TeXada-the-Math-Agent**](https://github.com/CacinieP/TeXada-the-Math-Agent) | Math Formula Agent — LaTeX ↔ natural language, step-by-step reasoning | Python | ★3 |
+| [**ppt-skills**](https://github.com/CacinieP/ppt-skills) | Open-source PPTX generation skills — CJK-aware, themed, editable via PptxGenJS | JavaScript | ★5 |
+| [**agent-self-evolution**](https://github.com/CacinieP/agent-self-evolution) | 🧬 Agent Self-Evolution research & practice archive: papers, surveys, reproductions, prototypes | Python | ★0 |
+| [**video2knowledge**](https://github.com/CacinieP/video2knowledge) | 🎬 Video → timestamped subtitles → knowledge docs/HTML/Anki cards. Fully local inference (Ollama + faster-whisper) | Python | ★0 |
+| [**network-troubleshoot-skill**](https://github.com/CacinieP/network-troubleshoot-skill) | Universal network troubleshooting skill for 17+ AI coding agents: DNS, proxy, SSL, Docker, Git, China/GFW workflows | Shell | ★1 |
 
-### Desktop & CLI Tools
-
-| Project | Description | Stack | ★ |
-|---|---|---|---|
-| [**Typing Master**](https://github.com/CacinieP/typing-master) | Multi-language typing practice desktop app — FR/ES/IT/PT/RU/JA | JavaScript | <!-- stars:CacinieP/typing-master -->★3 |
-| [**cace-timer**](https://github.com/CacinieP/cace-timer) | Minimal time-tracking CLI with mascot and single-file local data | TypeScript | <!-- stars:CacinieP/cace-timer -->★2 |
-| [**MathConnect**](https://github.com/CacinieP/MathConnect) | Calculus connect puzzle for practicing equivalent infinitesimals | JavaScript | <!-- stars:CacinieP/MathConnect -->★2 |
-| [**PyRecorder**](https://github.com/CacinieP/PyRecorder) | Probably the simplest screen recorder on Windows with Python only | Python | <!-- stars:CacinieP/PyRecorder -->★1 |
-
-### Open Source & Community
+## 📚 Math · Education · Learning
 
 | Project | Description | ★ |
 |---|---|---|
-| [**CICPA-Learning**](https://github.com/CacinieP/CICPA-Learning) | Open-source CPA exam handbook — 6 subjects, first-principles pedagogy | <!-- stars:CacinieP/CICPA-Learning -->★9 |
-| [**FinancialBeancount**](https://github.com/CacinieP/FinancialBeancount) | Beancount converter & deduplicator for Alipay, WeChat Pay, bank statements | <!-- stars:CacinieP/FinancialBeancount -->★3 |
-| [**video-note-app**](https://github.com/CacinieP/video-note-app) | Video note generation tool powered by Gradio + Whisper | <!-- stars:CacinieP/video-note-app -->★0 |
-| [**music-research**](https://github.com/CacinieP/music-research) | Music understanding & generation research: MIR, foundation models, edge deployment | <!-- stars:CacinieP/music-research -->★0 |
+| [**math-to-deep-learning**](https://github.com/CacinieP/math-to-deep-learning) | 纯数学到深度学习：用应用数学串联数学知识与深度学习教程 — 同一个数学概念，从纸笔推导到 GPU 训练 | ★0 |
+| [**CICPA-Learning**](https://github.com/CacinieP/CICPA-Learning) | Open-source CPA exam handbook — 6 subjects, first-principles pedagogy | ★9 |
+| [**FinancialBeancount**](https://github.com/CacinieP/FinancialBeancount) | Beancount converter & deduplicator for Alipay, WeChat Pay, bank statements | ★3 |
+
+---
+
+## 🗂 More Projects
+
+Older desktop/CLI tools and research notes — still maintained, now in the back row.
+
+| Project | Description | Stack | ★ |
+|---|---|---|---|
+| [**typing-master**](https://github.com/CacinieP/typing-master) | Multi-language typing practice desktop app — FR/ES/IT/PT/RU/JA | JavaScript | ★3 |
+| [**cace-timer**](https://github.com/CacinieP/cace-timer) | Minimal time-tracking CLI with mascot and single-file local data | TypeScript | ★2 |
+| [**MathConnect**](https://github.com/CacinieP/MathConnect) | Calculus connect puzzle for practicing equivalent infinitesimals | JavaScript | ★2 |
+| [**PyRecorder**](https://github.com/CacinieP/PyRecorder) | Probably the simplest screen recorder on Windows with Python only | Python | ★1 |
+| [**music-research**](https://github.com/CacinieP/music-research) | Music understanding & generation research: MIR, foundation models, edge deployment | — | ★0 |
 
 ---
 
