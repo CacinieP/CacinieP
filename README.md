@@ -29,6 +29,7 @@
 | 项目 | 简介 | Stack | ★ |
 |---|---|---|---|
 | [**math-to-deep-learning**](https://github.com/CacinieP/math-to-deep-learning) | 纯数学到深度学习：用应用数学串联数学知识与深度学习教程 — 同一个数学概念，从纸笔推导到 GPU 训练 | Markdown | [![Stars](https://img.shields.io/github/stars/CacinieP/math-to-deep-learning?style=flat-square&label=%20)](https://github.com/CacinieP/math-to-deep-learning) |
+| [**Mathematics-Universe**](https://github.com/CacinieP/Mathematics-Universe) | 数学知识体系：从高中到考研，环环相扣的数学联系网络 | Markdown | [![Stars](https://img.shields.io/github/stars/CacinieP/Mathematics-Universe?style=flat-square&label=%20)](https://github.com/CacinieP/Mathematics-Universe) |
 | [**agent-self-evolution**](https://github.com/CacinieP/agent-self-evolution) | 🧬 Agent 自演化研究与实战档案 — 论文、综述、复现、原型 | Python | [![Stars](https://img.shields.io/github/stars/CacinieP/agent-self-evolution?style=flat-square&label=%20)](https://github.com/CacinieP/agent-self-evolution) |
 | [**CICPA-Learning**](https://github.com/CacinieP/CICPA-Learning) | 开源 CPA 考试手册 — 6 科,第一性原理教学法 | Markdown | [![Stars](https://img.shields.io/github/stars/CacinieP/CICPA-Learning?style=flat-square&label=%20)](https://github.com/CacinieP/CICPA-Learning) |
 | [**music-research**](https://github.com/CacinieP/music-research) | 🎵 音乐理解与生成研究 — MIR、音频基础模型、端侧部署、合规 | — | [![Stars](https://img.shields.io/github/stars/CacinieP/music-research?style=flat-square&label=%20)](https://github.com/CacinieP/music-research) |
