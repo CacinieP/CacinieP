@@ -31,7 +31,7 @@
 | OBJECT | WHAT IT MAKES POSSIBLE | SIGNAL |
 |---|---|---|
 | [**TeXada**](https://github.com/CacinieP/TeXada-the-Math-Agent) | 让自然语言、不完整 LaTeX 与公式截图进入同一条可复制、可校验的数学写作流。 | `PYTHON` `MATH AGENT` `LOCAL-FIRST` |
-| [**Codetics / 语码游戏**](https://github.com/CacinieP/Codetics) | 一场关于噪声、压缩、认知偏误与意义保存的互动叙事实验。 [进入游戏 ↗](https://codetics.vercel.app/) | `TYPESCRIPT` `NARRATIVE SYSTEM` `LIVE` |
+| **Codetics / 语码游戏** | 一场关于噪声、压缩、认知偏误与意义保存的互动叙事实验。 [进入游戏 ↗](https://codetics.vercel.app/) | `TYPESCRIPT` `NARRATIVE SYSTEM` `LIVE` |
 | [**ppt-skills**](https://github.com/CacinieP/ppt-skills) | 面向 AI 编程 Agent 的开源 PPTX 生成技能：主题化、CJK 友好、保持元素可编辑。 | `JAVASCRIPT` `AGENT SKILL` `DESIGN` |
 | [**video2knowledge**](https://github.com/CacinieP/video2knowledge) | 视频 → 时间戳字幕 → 知识文档 / HTML / Anki；多模态与 ASR 双本地路径。 | `PYTHON` `VLM / ASR` `PRIVACY` |
 
@@ -63,7 +63,7 @@
 |---|---|
 | **Agents & Tools** | [network-troubleshoot-skill](https://github.com/CacinieP/network-troubleshoot-skill) · [ppt-skills](https://github.com/CacinieP/ppt-skills) · [TeXada](https://github.com/CacinieP/TeXada-the-Math-Agent) · [minicpm5-network-doctor](https://github.com/CacinieP/minicpm5-network-doctor) |
 | **Knowledge Systems** | [math-to-deep-learning](https://github.com/CacinieP/math-to-deep-learning) · [Mathematics-Universe](https://github.com/CacinieP/Mathematics-Universe) · [video2knowledge](https://github.com/CacinieP/video2knowledge) |
-| **Interactive Objects** | [Codetics](https://github.com/CacinieP/Codetics) · [MathConnect](https://github.com/CacinieP/MathConnect) · [SushiTimer](https://github.com/CacinieP/SushiTimer) |
+| **Interactive Objects** | [Codetics](https://codetics.vercel.app/) · [MathConnect](https://github.com/CacinieP/MathConnect) · [SushiTimer](https://github.com/CacinieP/SushiTimer) |
 
 ### `05 / WORKING STACK`
 

@@ -33,7 +33,7 @@
 | OBJECT | WHAT IT MAKES POSSIBLE | SIGNAL |
 |---|---|---|
 | [**TeXada**](https://github.com/CacinieP/TeXada-the-Math-Agent) | A single, verifiable writing flow for natural language, incomplete LaTeX, and formula screenshots. | `PYTHON` `MATH AGENT` `LOCAL-FIRST` |
-| [**Codetics**](https://github.com/CacinieP/Codetics) | An interactive narrative experiment about noise, compression, cognitive bias, and preserving meaning. [Play ↗](https://codetics.vercel.app/) | `TYPESCRIPT` `NARRATIVE SYSTEM` `LIVE` |
+| **Codetics** | An interactive narrative experiment about noise, compression, cognitive bias, and preserving meaning. [Play ↗](https://codetics.vercel.app/) | `TYPESCRIPT` `NARRATIVE SYSTEM` `LIVE` |
 | [**ppt-skills**](https://github.com/CacinieP/ppt-skills) | Open-source PPTX generation skills for coding agents: themed, CJK-aware, and fully editable. | `JAVASCRIPT` `AGENT SKILL` `DESIGN` |
 | [**video2knowledge**](https://github.com/CacinieP/video2knowledge) | Video → timestamped transcript → knowledge docs / HTML / Anki through two local-first AI paths. | `PYTHON` `VLM / ASR` `PRIVACY` |
 
