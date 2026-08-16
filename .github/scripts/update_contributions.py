@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Auto-generate the 'Open Source Contributions' table in README.md.
+"""Auto-generate the 'Open Source Contributions' table in README.md and README.en.md.
 
 Fetches every merged PR authored by <USER>, drops PRs merged into the user's
 own repos, ranks the rest by repo stars, and rewrites the block fenced by
@@ -21,7 +21,7 @@ HEADERS = {
     "Accept": "application/vnd.github+json",
     "User-Agent": USER,
 }
-README = "README.md"
+READMES = ["README.md", "README.en.md"]
 MARK_START = "<!-- START: oss-contributions -->"
 MARK_END = "<!-- END: oss-contributions -->"
 
@@ -100,17 +100,21 @@ def main():
         )
 
     block = "\n".join(lines)
-    text = open(README, encoding="utf-8").read()
     pattern = re.compile(re.escape(MARK_START) + r".*?" + re.escape(MARK_END), re.S)
-    if not pattern.search(text):
-        print("ERROR: markers not found in README", file=sys.stderr)
-        sys.exit(1)
-    new = pattern.sub(f"{MARK_START}\n{block}\n{MARK_END}", text)
+    changed = False
+    for readme in READMES:
+        text = open(readme, encoding="utf-8").read()
+        if not pattern.search(text):
+            print(f"ERROR: markers not found in {readme}", file=sys.stderr)
+            sys.exit(1)
+        new = pattern.sub(f"{MARK_START}\n{block}\n{MARK_END}", text)
+        if new != text:
+            open(readme, "w", encoding="utf-8").write(new)
+            changed = True
 
-    if new == text:
+    if not changed:
         print("No changes.")
         return
-    open(README, "w", encoding="utf-8").write(new)
     print(f"Updated: {total_prs} PRs across {len(ordered)} repos.")
 
 
