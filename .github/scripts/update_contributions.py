@@ -25,7 +25,7 @@ READMES = ["README.md", "README.en.md"]
 MARK_START = "<!-- START: oss-contributions -->"
 MARK_END = "<!-- END: oss-contributions -->"
 
-_STAR_CACHE = {}
+_REPO_CACHE = {}
 
 
 def api(url):
@@ -34,14 +34,20 @@ def api(url):
         return json.load(r)
 
 
-def fetch_stars(full):
-    """Cached star count for 'owner/repo'. Returns 0 if unavailable."""
-    if full not in _STAR_CACHE:
+def fetch_repo(full):
+    """Cached repo record for 'owner/repo'. None if not visible to the token."""
+    if full not in _REPO_CACHE:
         try:
-            _STAR_CACHE[full] = int(api(f"https://api.github.com/repos/{full}")["stargazers_count"])
+            _REPO_CACHE[full] = api(f"https://api.github.com/repos/{full}")
         except Exception:
-            _STAR_CACHE[full] = 0
-    return _STAR_CACHE[full]
+            _REPO_CACHE[full] = None
+    return _REPO_CACHE[full]
+
+
+def fetch_stars(full):
+    """Star count for 'owner/repo'. Returns 0 if unavailable."""
+    repo = fetch_repo(full)
+    return int(repo["stargazers_count"]) if repo else 0
 
 
 def star_badge(full):
@@ -72,6 +78,9 @@ def main():
         if owner == USER:  # skip self-owned repos
             continue
         full = f"{owner}/{repo}"
+        repo = fetch_repo(full)
+        if repo is None or repo.get("private"):
+            continue  # the profile lists open-source work only
         entry = repos.setdefault(full, {"stars": 0, "prs": []})
         entry["prs"].append((it["number"], (it.get("title") or "").strip(), it["html_url"]))
 
