@@ -36,8 +36,7 @@
 | **Codetics** | An interactive narrative experiment about noise, compression, cognitive bias, and preserving meaning. [Play ↗](https://codetics.vercel.app/) | `TYPESCRIPT` `NARRATIVE SYSTEM` `LIVE` |
 | [**ppt-skills**](https://github.com/CacinieP/ppt-skills) | Open-source PPTX generation skills for coding agents: themed, CJK-aware, and fully editable. | `JAVASCRIPT` `AGENT SKILL` `DESIGN` |
 | [**video2knowledge**](https://github.com/CacinieP/video2knowledge) | Video → timestamped transcript → knowledge docs / HTML / Anki through two local-first AI paths. | `PYTHON` `VLM / ASR` `PRIVACY` |
-| [**network-troubleshoot-skill**](https://github.com/CacinieP/network-troubleshoot-skill) | A universal network troubleshooting skill for coding agents: DNS, proxy, SSL, package managers, Docker, and Git workflows. | `SHELL` `AGENT SKILL` `NETWORK` |
-| [**minicpm5-network-doctor**](https://github.com/CacinieP/minicpm5-network-doctor) | A local-first, read-only network diagnostics agent powered by MiniCPM5 tool calling. | `PYTHON` `LLM AGENT` `LOCAL-FIRST` |
+| [**network-troubleshoot-skill**](https://github.com/CacinieP/network-troubleshoot-skill) · [**minicpm5-network-doctor**](https://github.com/CacinieP/minicpm5-network-doctor) | A network troubleshooting pair: a universal skill for coding agents, plus a local-first, read-only diagnostics agent powered by MiniCPM5 tool calling. | `NETWORK` `AGENT SKILL` `LOCAL-FIRST` |
 
 <p align="right">
   <a href="https://github.com/CacinieP?tab=repositories"><strong>ALL REPOSITORIES ↗</strong></a>
