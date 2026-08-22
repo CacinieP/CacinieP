@@ -55,7 +55,6 @@
 
 `MAP CAPABILITY BOUNDARIES` → `DESIGN TOOL GRAMMARS` → `MEASURE TASK ENTROPY` → `CLOSE THE LOOP`
 
-- [minicpm5-network-doctor](https://github.com/CacinieP/minicpm5-network-doctor) — MiniCPM5 驱动的本地优先、只读网络诊断 Agent
 - [AgentEvalOps](https://github.com/CacinieP/AgentEvalOps) — Agent 回归测试、漂移检测与运行对比
 - [agent-self-evolution](https://github.com/CacinieP/agent-self-evolution) — Agent 自演化论文、复现与原型档案
 

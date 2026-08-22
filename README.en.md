@@ -59,7 +59,6 @@ act reliably with limited context, explicit permissions, and real feedback.
 
 `MAP CAPABILITY BOUNDARIES` → `DESIGN TOOL GRAMMARS` → `MEASURE TASK ENTROPY` → `CLOSE THE LOOP`
 
-- [minicpm5-network-doctor](https://github.com/CacinieP/minicpm5-network-doctor) — a local-first, read-only network diagnostics agent powered by MiniCPM5
 - [AgentEvalOps](https://github.com/CacinieP/AgentEvalOps) — regression testing, drift detection, and run comparison for agents
 - [agent-self-evolution](https://github.com/CacinieP/agent-self-evolution) — papers, reproductions, and prototypes for agent self-evolution
 
