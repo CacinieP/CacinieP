@@ -36,6 +36,8 @@
 | **Codetics** | An interactive narrative experiment about noise, compression, cognitive bias, and preserving meaning. [Play ↗](https://codetics.vercel.app/) | `TYPESCRIPT` `NARRATIVE SYSTEM` `LIVE` |
 | [**ppt-skills**](https://github.com/CacinieP/ppt-skills) | Open-source PPTX generation skills for coding agents: themed, CJK-aware, and fully editable. | `JAVASCRIPT` `AGENT SKILL` `DESIGN` |
 | [**video2knowledge**](https://github.com/CacinieP/video2knowledge) | Video → timestamped transcript → knowledge docs / HTML / Anki through two local-first AI paths. | `PYTHON` `VLM / ASR` `PRIVACY` |
+| [**network-troubleshoot-skill**](https://github.com/CacinieP/network-troubleshoot-skill) | A universal network troubleshooting skill for coding agents: DNS, proxy, SSL, package managers, Docker, Git, and China/GFW workflows. | `SHELL` `AGENT SKILL` `NETWORK` |
+| [**minicpm5-network-doctor**](https://github.com/CacinieP/minicpm5-network-doctor) | A local-first, read-only network diagnostics agent powered by MiniCPM5 tool calling. | `PYTHON` `LLM AGENT` `LOCAL-FIRST` |
 
 <p align="right">
   <a href="https://github.com/CacinieP?tab=repositories"><strong>ALL REPOSITORIES ↗</strong></a>
@@ -61,11 +63,10 @@ act reliably with limited context, explicit permissions, and real feedback.
 - [AgentEvalOps](https://github.com/CacinieP/AgentEvalOps) — regression testing, drift detection, and run comparison for agents
 - [agent-self-evolution](https://github.com/CacinieP/agent-self-evolution) — papers, reproductions, and prototypes for agent self-evolution
 
-### `04 / BUILD INDEX`
+### `04 / KNOWLEDGE & INTERACTIVE`
 
 | FIELD | LIVE REPOSITORIES |
 |---|---|
-| **Agents & Tools** | [network-troubleshoot-skill](https://github.com/CacinieP/network-troubleshoot-skill) · [ppt-skills](https://github.com/CacinieP/ppt-skills) · [TeXada](https://github.com/CacinieP/TeXada-the-Math-Agent) · [minicpm5-network-doctor](https://github.com/CacinieP/minicpm5-network-doctor) |
 | **Knowledge Systems** | [math-to-deep-learning](https://github.com/CacinieP/math-to-deep-learning) · [Mathematics-Universe](https://github.com/CacinieP/Mathematics-Universe) · [CICPA-Learning](https://github.com/CacinieP/CICPA-Learning) |
 | **Interactive Objects** | [Codetics](https://codetics.vercel.app/) · [MathConnect](https://github.com/CacinieP/MathConnect) · [溯时 SUSHI](https://apps.apple.com/app/id6779997923) ([privacy policy](https://caciniep.github.io/SUSHI-the-timer/)) |
 

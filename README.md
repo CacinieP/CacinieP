@@ -34,6 +34,8 @@
 | **Codetics / 语码游戏** | 一场关于噪声、压缩、认知偏误与意义保存的互动叙事实验。 [进入游戏 ↗](https://codetics.vercel.app/) | `TYPESCRIPT` `NARRATIVE SYSTEM` `LIVE` |
 | [**ppt-skills**](https://github.com/CacinieP/ppt-skills) | 面向 AI 编程 Agent 的开源 PPTX 生成技能：主题化、CJK 友好、保持元素可编辑。 | `JAVASCRIPT` `AGENT SKILL` `DESIGN` |
 | [**video2knowledge**](https://github.com/CacinieP/video2knowledge) | 视频 → 时间戳字幕 → 知识文档 / HTML / Anki；多模态与 ASR 双本地路径。 | `PYTHON` `VLM / ASR` `PRIVACY` |
+| [**network-troubleshoot-skill**](https://github.com/CacinieP/network-troubleshoot-skill) | 面向 AI 编程 Agent 的通用网络排障技能：DNS、代理、SSL、包管理器、Docker、Git 与中国网络环境工作流。 | `SHELL` `AGENT SKILL` `NETWORK` |
+| [**minicpm5-network-doctor**](https://github.com/CacinieP/minicpm5-network-doctor) | MiniCPM5 工具调用驱动的本地优先、只读网络诊断 Agent。 | `PYTHON` `LLM AGENT` `LOCAL-FIRST` |
 
 <p align="right">
   <a href="https://github.com/CacinieP?tab=repositories"><strong>浏览全部仓库 / ALL REPOSITORIES ↗</strong></a>
@@ -57,11 +59,10 @@
 - [AgentEvalOps](https://github.com/CacinieP/AgentEvalOps) — Agent 回归测试、漂移检测与运行对比
 - [agent-self-evolution](https://github.com/CacinieP/agent-self-evolution) — Agent 自演化论文、复现与原型档案
 
-### `04 / BUILD INDEX`
+### `04 / KNOWLEDGE & INTERACTIVE`
 
 | FIELD | LIVE REPOSITORIES |
 |---|---|
-| **Agents & Tools** | [network-troubleshoot-skill](https://github.com/CacinieP/network-troubleshoot-skill) · [ppt-skills](https://github.com/CacinieP/ppt-skills) · [TeXada](https://github.com/CacinieP/TeXada-the-Math-Agent) · [minicpm5-network-doctor](https://github.com/CacinieP/minicpm5-network-doctor) |
 | **Knowledge Systems** | [math-to-deep-learning](https://github.com/CacinieP/math-to-deep-learning) · [Mathematics-Universe](https://github.com/CacinieP/Mathematics-Universe) · [CICPA-Learning](https://github.com/CacinieP/CICPA-Learning) |
 | **Interactive Objects** | [Codetics](https://codetics.vercel.app/) · [MathConnect](https://github.com/CacinieP/MathConnect) · [溯时 SUSHI](https://apps.apple.com/cn/app/%E6%BA%AF%E6%97%B6/id6779997923)（[隐私政策](https://caciniep.github.io/SUSHI-the-timer/)） |
 
