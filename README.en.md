@@ -66,7 +66,7 @@ act reliably with limited context, explicit permissions, and real feedback.
 | FIELD | LIVE REPOSITORIES |
 |---|---|
 | **Agents & Tools** | [network-troubleshoot-skill](https://github.com/CacinieP/network-troubleshoot-skill) · [ppt-skills](https://github.com/CacinieP/ppt-skills) · [TeXada](https://github.com/CacinieP/TeXada-the-Math-Agent) · [minicpm5-network-doctor](https://github.com/CacinieP/minicpm5-network-doctor) |
-| **Knowledge Systems** | [math-to-deep-learning](https://github.com/CacinieP/math-to-deep-learning) · [Mathematics-Universe](https://github.com/CacinieP/Mathematics-Universe) · [video2knowledge](https://github.com/CacinieP/video2knowledge) |
+| **Knowledge Systems** | [math-to-deep-learning](https://github.com/CacinieP/math-to-deep-learning) · [Mathematics-Universe](https://github.com/CacinieP/Mathematics-Universe) · [CICPA-Learning](https://github.com/CacinieP/CICPA-Learning) |
 | **Interactive Objects** | [Codetics](https://codetics.vercel.app/) · [MathConnect](https://github.com/CacinieP/MathConnect) · [溯时 SUSHI](https://apps.apple.com/app/id6779997923) ([privacy policy](https://caciniep.github.io/SUSHI-the-timer/)) |
 
 ### `05 / WORKING STACK`
