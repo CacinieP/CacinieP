@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Auto-generate the 'Open Source Contributions' table in README.md and README.en.md.
 
-Fetches every merged PR authored by <USER>, drops PRs merged into the user's
-own repos, ranks the rest by repo stars, and rewrites the block fenced by
+Fetches merged PRs authored by <USER>, drops PRs merged into the user's own
+repos and project-directory submissions already shown beside their projects,
+ranks the rest by repo stars, and rewrites the block fenced by
 <!-- START: oss-contributions --> ... <!-- END: oss-contributions -->.
 
 Star counts are rendered as live shields.io badges, so they stay current
@@ -24,6 +25,14 @@ HEADERS = {
 READMES = ["README.md", "README.en.md"]
 MARK_START = "<!-- START: oss-contributions -->"
 MARK_END = "<!-- END: oss-contributions -->"
+
+# These PRs publish a project into an ecosystem directory. Their acceptance
+# evidence lives beside the corresponding project in the categorized README,
+# so repeating them in the upstream-contribution ledger would add noise.
+PROJECT_DIRECTORY_PRS = {
+    ("PatrickJS/awesome-cursorrules", 292),
+    ("siddhantgoel/awesome-beancount", 76),
+}
 
 _REPO_CACHE = {}
 
@@ -78,6 +87,8 @@ def main():
         if owner == USER:  # skip self-owned repos
             continue
         full = f"{owner}/{repo}"
+        if (full, it["number"]) in PROJECT_DIRECTORY_PRS:
+            continue
         repo = fetch_repo(full)
         if repo is None or repo.get("private"):
             continue  # the profile lists open-source work only
