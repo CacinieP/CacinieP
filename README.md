@@ -38,7 +38,7 @@
 | PROJECT | PURPOSE | SIGNAL |
 |---|---|---|
 | [**video2knowledge**](https://github.com/CacinieP/video2knowledge) | 视频 → 时间戳字幕 → 知识文档 / HTML / Anki；多模态与 ASR 本地路径。 | [![Stars](https://img.shields.io/github/stars/CacinieP/video2knowledge?style=flat-square&label=STARS)](https://github.com/CacinieP/video2knowledge) |
-| [**ppt-skills**](https://github.com/CacinieP/ppt-skills) | 面向 AI 编程 Agent 的主题化、CJK 友好、元素可编辑的 PPTX 生成技能。 | [![Stars](https://img.shields.io/github/stars/CacinieP/ppt-skills?style=flat-square&label=STARS)](https://github.com/CacinieP/ppt-skills) |
+| [**slide-recipes**](https://github.com/CacinieP/slide-recipes) | 面向 AI Agent 的可编辑商业 PPTX：9 套审美 recipe、20 套语义配色、中文排版与渲染检查。 | [![Stars](https://img.shields.io/github/stars/CacinieP/slide-recipes?style=flat-square&label=STARS)](https://github.com/CacinieP/slide-recipes) |
 | [**NetAssist**](https://github.com/CacinieP/NetAssist) | 基于 Tauri + React 的网络诊断与监控桌面工具，支持连通性检测、实时监控、DNS 查询与端口扫描。 | [![Stars](https://img.shields.io/github/stars/CacinieP/NetAssist?style=flat-square&label=STARS)](https://github.com/CacinieP/NetAssist) |
 | [**network-troubleshoot-skill**](https://github.com/CacinieP/network-troubleshoot-skill) | 面向 AI 编程 Agent 的通用网络排障技能。 | [![Stars](https://img.shields.io/github/stars/CacinieP/network-troubleshoot-skill?style=flat-square&label=STARS)](https://github.com/CacinieP/network-troubleshoot-skill) · [已收录](https://github.com/PatrickJS/awesome-cursorrules/pull/292) |
 | [**FinancialBeancount**](https://github.com/CacinieP/FinancialBeancount) | 支付宝、微信、银行卡账单的本地转换与去重。 | [![Stars](https://img.shields.io/github/stars/CacinieP/FinancialBeancount?style=flat-square&label=STARS)](https://github.com/CacinieP/FinancialBeancount) · [已收录](https://github.com/siddhantgoel/awesome-beancount/pull/76) |
