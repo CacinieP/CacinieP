@@ -37,6 +37,7 @@
 
 | PROJECT | PURPOSE | SIGNAL |
 |---|---|---|
+| [**LaunchGrid**](https://github.com/CacinieP/launchgrid) | macOS 26/27 启动台替代：F4 应用网格、⌥F4 进程管理、⇧F4 剪贴板历史回贴、⇧⌥F4 网络面板；Swift 单包无第三方依赖，签名公证发 DMG。 | [![Stars](https://img.shields.io/github/stars/CacinieP/launchgrid?style=flat-square&label=STARS)](https://github.com/CacinieP/launchgrid) · `NOTARIZED` |
 | [**video2knowledge**](https://github.com/CacinieP/video2knowledge) | 视频 → 时间戳字幕 → 知识文档 / HTML / Anki；多模态与 ASR 本地路径。 | [![Stars](https://img.shields.io/github/stars/CacinieP/video2knowledge?style=flat-square&label=STARS)](https://github.com/CacinieP/video2knowledge) |
 | [**slide-recipes**](https://github.com/CacinieP/slide-recipes) | 面向 AI Agent 的可编辑商业 PPTX：9 套审美 recipe、20 套语义配色、中文排版与渲染检查。 | [![Stars](https://img.shields.io/github/stars/CacinieP/slide-recipes?style=flat-square&label=STARS)](https://github.com/CacinieP/slide-recipes) |
 | [**NetAssist**](https://github.com/CacinieP/NetAssist) | 基于 Tauri + React 的网络诊断与监控桌面工具，支持连通性检测、实时监控、DNS 查询与端口扫描。 | [![Stars](https://img.shields.io/github/stars/CacinieP/NetAssist?style=flat-square&label=STARS)](https://github.com/CacinieP/NetAssist) |

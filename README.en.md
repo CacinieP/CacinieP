@@ -37,6 +37,7 @@ I am exploring local-first tool use, agent evaluation, and self-evolution. The g
 
 | PROJECT | PURPOSE | SIGNAL |
 |---|---|---|
+| [**LaunchGrid**](https://github.com/CacinieP/launchgrid) | macOS 26/27 Launchpad replacement: F4 app grid, ⌥F4 process manager, ⇧F4 clipboard history with paste-back, ⇧⌥F4 network panel; single Swift package, no third-party deps, notarized DMG release. | [![Stars](https://img.shields.io/github/stars/CacinieP/launchgrid?style=flat-square&label=STARS)](https://github.com/CacinieP/launchgrid) · `NOTARIZED` |
 | [**video2knowledge**](https://github.com/CacinieP/video2knowledge) | Video → timestamped transcript → knowledge docs / HTML / Anki through local VLM and ASR paths. | [![Stars](https://img.shields.io/github/stars/CacinieP/video2knowledge?style=flat-square&label=STARS)](https://github.com/CacinieP/video2knowledge) |
 | [**slide-recipes**](https://github.com/CacinieP/slide-recipes) | Editable business PPTX for AI agents: 9 visual recipes, 20 semantic palettes, CJK-aware layout and render checks. | [![Stars](https://img.shields.io/github/stars/CacinieP/slide-recipes?style=flat-square&label=STARS)](https://github.com/CacinieP/slide-recipes) |
 | [**NetAssist**](https://github.com/CacinieP/NetAssist) | A Tauri + React desktop tool for network diagnostics, real-time monitoring, DNS queries, and port scanning. | [![Stars](https://img.shields.io/github/stars/CacinieP/NetAssist?style=flat-square&label=STARS)](https://github.com/CacinieP/NetAssist) |
