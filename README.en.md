@@ -62,6 +62,7 @@ I am exploring local-first tool use, agent evaluation, and self-evolution. The g
 
 | PROJECT | FOCUS | SIGNAL |
 |---|---|---|
+| [**inference-optimization-index**](https://github.com/CacinieP/inference-optimization-index) | A link-verified index for LLM inference optimization: serving, edge/general inference, books, courses and papers. | [![Stars](https://img.shields.io/github/stars/CacinieP/inference-optimization-index?style=flat-square&label=STARS)](https://github.com/CacinieP/inference-optimization-index) |
 | [**CICPA-Learning**](https://github.com/CacinieP/CICPA-Learning) | An open-source 2026 CPA study guide with subject indexes and learning resources. | [![Stars](https://img.shields.io/github/stars/CacinieP/CICPA-Learning?style=flat-square&label=STARS)](https://github.com/CacinieP/CICPA-Learning) |
 | [**LPQE-Learning**](https://github.com/CacinieP/LPQE-Learning) | Study notes for China's Legal Professional Qualification Examination. | [![Stars](https://img.shields.io/github/stars/CacinieP/LPQE-Learning?style=flat-square&label=STARS)](https://github.com/CacinieP/LPQE-Learning) |
 | [**music-research**](https://github.com/CacinieP/music-research) | Notes on music understanding, generation, audio engineering, and edge deployment. | [![Stars](https://img.shields.io/github/stars/CacinieP/music-research?style=flat-square&label=STARS)](https://github.com/CacinieP/music-research) |

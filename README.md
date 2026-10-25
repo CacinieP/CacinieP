@@ -62,6 +62,7 @@
 
 | PROJECT | FOCUS | SIGNAL |
 |---|---|---|
+| [**inference-optimization-index**](https://github.com/CacinieP/inference-optimization-index) | 推理优化学习索引：服务端 LLM 推理 + 端侧/通用推理的仓库、书、课程与论文，链接逐条实测。 | [![Stars](https://img.shields.io/github/stars/CacinieP/inference-optimization-index?style=flat-square&label=STARS)](https://github.com/CacinieP/inference-optimization-index) |
 | [**CICPA-Learning**](https://github.com/CacinieP/CICPA-Learning) | 2026 注册会计师考试开源学习手册、科目索引与资料体系。 | [![Stars](https://img.shields.io/github/stars/CacinieP/CICPA-Learning?style=flat-square&label=STARS)](https://github.com/CacinieP/CICPA-Learning) |
 | [**LPQE-Learning**](https://github.com/CacinieP/LPQE-Learning) | 法律职业资格考试学习笔记。 | [![Stars](https://img.shields.io/github/stars/CacinieP/LPQE-Learning?style=flat-square&label=STARS)](https://github.com/CacinieP/LPQE-Learning) |
 | [**music-research**](https://github.com/CacinieP/music-research) | 音乐理解、生成、音频工程与端侧部署研究笔记。 | [![Stars](https://img.shields.io/github/stars/CacinieP/music-research?style=flat-square&label=STARS)](https://github.com/CacinieP/music-research) |
