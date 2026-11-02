@@ -28,7 +28,7 @@
 | PROJECT | PURPOSE | SIGNAL |
 |---|---|---|
 | [**TeXada**](https://github.com/CacinieP/TeXada-the-Math-Agent) | 自然语言 / LaTeX / 公式截图统一进入可校验的数学写作流。 | [![Stars](https://img.shields.io/github/stars/CacinieP/TeXada-the-Math-Agent?style=flat-square&label=STARS)](https://github.com/CacinieP/TeXada-the-Math-Agent) |
-| [**TeXada Studio**](https://github.com/CacinieP/TeXada-Studio-with-agentskills) | LaTeX 文档质检与候选修复工作台：规则检查 + 本地模型 + 编译预览 + 人工审阅闭环。 | [![Stars](https://img.shields.io/github/stars/CacinieP/TeXada-Studio-with-agentskills?style=flat-square&label=STARS)](https://github.com/CacinieP/TeXada-Studio-with-agentskills) · [DEMO ↗](https://www.bilibili.com/video/BV16Kan6rEGv/) |
+| [**TeXada Studio**](https://github.com/CacinieP/TeXada-Studio-with-agentskills) | LaTeX 文档质检与候选修复工作台：规则检查 + 本地模型 + 编译预览 + 人工审阅闭环。 | [![Stars](https://img.shields.io/github/stars/CacinieP/TeXada-Studio-with-agentskills?style=flat-square&label=STARS)](https://github.com/CacinieP/TeXada-Studio-with-agentskills) |
 | [**AgentEvalOps**](https://github.com/CacinieP/AgentEvalOps) | 展示 Agent 回归测试、漂移检测、运行对比与质量分析工作流的前端原型。 | [LIVE PROTOTYPE ↗](https://agent-bench-umber.vercel.app/) |
 | [**SMAB**](https://github.com/CacinieP/SMAB) | 面向小型工具调用语言模型的可执行基准。 | [![Stars](https://img.shields.io/github/stars/CacinieP/SMAB?style=flat-square&label=STARS)](https://github.com/CacinieP/SMAB) |
 | [**MiniCPM5 Network Doctor**](https://github.com/CacinieP/minicpm5-network-doctor) | MiniCPM5 工具调用驱动的本地只读网络诊断 Agent。 | `LOCAL-FIRST` |
