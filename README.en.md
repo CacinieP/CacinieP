@@ -28,6 +28,7 @@ I am exploring local-first tool use, agent evaluation, and self-evolution. The g
 | PROJECT | PURPOSE | SIGNAL |
 |---|---|---|
 | [**TeXada**](https://github.com/CacinieP/TeXada-the-Math-Agent) | Natural language / LaTeX / formula screenshots in one verifiable math-writing flow. | [![Stars](https://img.shields.io/github/stars/CacinieP/TeXada-the-Math-Agent?style=flat-square&label=STARS)](https://github.com/CacinieP/TeXada-the-Math-Agent) |
+| [**TeXada Studio**](https://github.com/CacinieP/TeXada-Studio-with-agentskills) | A LaTeX document QC workbench: rule checks + local models + compile preview + human-in-the-loop review. | [![Stars](https://img.shields.io/github/stars/CacinieP/TeXada-Studio-with-agentskills?style=flat-square&label=STARS)](https://github.com/CacinieP/TeXada-Studio-with-agentskills) · [DEMO ↗](https://www.bilibili.com/video/BV16Kan6rEGv/) |
 | [**AgentEvalOps**](https://github.com/CacinieP/AgentEvalOps) | A front-end prototype for agent regression testing, drift detection, run comparison, and quality-analysis workflows. | [LIVE PROTOTYPE ↗](https://agent-bench-umber.vercel.app/) |
 | [**SMAB**](https://github.com/CacinieP/SMAB) | An executable benchmark for small tool-using language models. | [![Stars](https://img.shields.io/github/stars/CacinieP/SMAB?style=flat-square&label=STARS)](https://github.com/CacinieP/SMAB) |
 | [**MiniCPM5 Network Doctor**](https://github.com/CacinieP/minicpm5-network-doctor) | A local-first, read-only network diagnostics agent powered by MiniCPM5 tool calling. | `LOCAL-FIRST` |
