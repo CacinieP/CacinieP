@@ -29,10 +29,10 @@
 |---|---|---|
 | [**TeXada**](https://github.com/CacinieP/TeXada-the-Math-Agent) | 自然语言 / LaTeX / 公式截图统一进入可校验的数学写作流。 | [![Stars](https://img.shields.io/github/stars/CacinieP/TeXada-the-Math-Agent?style=flat-square&label=STARS)](https://github.com/CacinieP/TeXada-the-Math-Agent) |
 | [**TeXada Studio**](https://github.com/CacinieP/TeXada-Studio-with-agentskills) | LaTeX 文档质检与候选修复工作台：规则检查 + 本地模型 + 编译预览 + 人工审阅闭环。 | [![Stars](https://img.shields.io/github/stars/CacinieP/TeXada-Studio-with-agentskills?style=flat-square&label=STARS)](https://github.com/CacinieP/TeXada-Studio-with-agentskills) |
-| [**AgentEvalOps**](https://github.com/CacinieP/AgentEvalOps) | 展示 Agent 回归测试、漂移检测、运行对比与质量分析工作流的前端原型。 | [LIVE PROTOTYPE ↗](https://agent-bench-umber.vercel.app/) |
+| [**AgentEvalOps**](https://github.com/CacinieP/AgentEvalOps) | 展示 Agent 回归测试、漂移检测、运行对比与质量分析工作流的前端原型。 | [LIVE PROTOTYPE ↗](https://agent-bench-umber.vercel.app/) · [![Stars](https://img.shields.io/github/stars/CacinieP/AgentEvalOps?style=flat-square&label=STARS)](https://github.com/CacinieP/AgentEvalOps) |
 | [**SMAB**](https://github.com/CacinieP/SMAB) | 面向小型工具调用语言模型的可执行基准。 | [![Stars](https://img.shields.io/github/stars/CacinieP/SMAB?style=flat-square&label=STARS)](https://github.com/CacinieP/SMAB) |
-| [**MiniCPM5 Network Doctor**](https://github.com/CacinieP/minicpm5-network-doctor) | MiniCPM5 工具调用驱动的本地只读网络诊断 Agent。 | `LOCAL-FIRST` |
-| [**agent-self-evolution**](https://github.com/CacinieP/agent-self-evolution) | Agent 自演化论文、复现与原型档案。 | `RESEARCH` |
+| [**MiniCPM5 Network Doctor**](https://github.com/CacinieP/minicpm5-network-doctor) | MiniCPM5 工具调用驱动的本地只读网络诊断 Agent。 | [![Stars](https://img.shields.io/github/stars/CacinieP/minicpm5-network-doctor?style=flat-square&label=STARS)](https://github.com/CacinieP/minicpm5-network-doctor) · `LOCAL-FIRST` |
+| [**agent-self-evolution**](https://github.com/CacinieP/agent-self-evolution) | Agent 自演化论文、复现与原型档案。 | [![Stars](https://img.shields.io/github/stars/CacinieP/agent-self-evolution?style=flat-square&label=STARS)](https://github.com/CacinieP/agent-self-evolution) · `RESEARCH` |
 
 ### `01 / CREATOR & DEVELOPER TOOLS`
 
@@ -69,8 +69,8 @@
 | [**LPQE-Learning**](https://github.com/CacinieP/LPQE-Learning) | 法律职业资格考试学习笔记。 | [![Stars](https://img.shields.io/github/stars/CacinieP/LPQE-Learning?style=flat-square&label=STARS)](https://github.com/CacinieP/LPQE-Learning) |
 | [**music-research**](https://github.com/CacinieP/music-research) | 音乐理解、生成、音频工程与端侧部署研究笔记。 | [![Stars](https://img.shields.io/github/stars/CacinieP/music-research?style=flat-square&label=STARS)](https://github.com/CacinieP/music-research) |
 | [**linguistics-hackathon-S0-deutsch**](https://github.com/CacinieP/linguistics-hackathon-S0-deutsch) | 一人 48 小时从 0 到 A2 的德语语言学黑客松。 | [![Stars](https://img.shields.io/github/stars/CacinieP/linguistics-hackathon-S0-deutsch?style=flat-square&label=STARS)](https://github.com/CacinieP/linguistics-hackathon-S0-deutsch) |
-| [**math-to-deep-learning**](https://github.com/CacinieP/math-to-deep-learning) | 从纸笔推导到 GPU 训练的应用数学学习路径。 | `KNOWLEDGE SYSTEM` |
-| [**Mathematics-Universe**](https://github.com/CacinieP/Mathematics-Universe) | 从高中到考研的数学联系网络。 | `KNOWLEDGE GRAPH` |
+| [**math-to-deep-learning**](https://github.com/CacinieP/math-to-deep-learning) | 从纸笔推导到 GPU 训练的应用数学学习路径。 | [![Stars](https://img.shields.io/github/stars/CacinieP/math-to-deep-learning?style=flat-square&label=STARS)](https://github.com/CacinieP/math-to-deep-learning) · `KNOWLEDGE SYSTEM` |
+| [**Mathematics-Universe**](https://github.com/CacinieP/Mathematics-Universe) | 从高中到考研的数学联系网络。 | [![Stars](https://img.shields.io/github/stars/CacinieP/Mathematics-Universe?style=flat-square&label=STARS)](https://github.com/CacinieP/Mathematics-Universe) · `KNOWLEDGE GRAPH` |
 
 ### `04 / LINGUISTIC EDGE`
 

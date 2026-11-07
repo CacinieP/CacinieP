@@ -29,10 +29,10 @@ I am exploring local-first tool use, agent evaluation, and self-evolution. The g
 |---|---|---|
 | [**TeXada**](https://github.com/CacinieP/TeXada-the-Math-Agent) | Natural language / LaTeX / formula screenshots in one verifiable math-writing flow. | [![Stars](https://img.shields.io/github/stars/CacinieP/TeXada-the-Math-Agent?style=flat-square&label=STARS)](https://github.com/CacinieP/TeXada-the-Math-Agent) |
 | [**TeXada Studio**](https://github.com/CacinieP/TeXada-Studio-with-agentskills) | A LaTeX document QC workbench: rule checks + local models + compile preview + human-in-the-loop review. | [![Stars](https://img.shields.io/github/stars/CacinieP/TeXada-Studio-with-agentskills?style=flat-square&label=STARS)](https://github.com/CacinieP/TeXada-Studio-with-agentskills) |
-| [**AgentEvalOps**](https://github.com/CacinieP/AgentEvalOps) | A front-end prototype for agent regression testing, drift detection, run comparison, and quality-analysis workflows. | [LIVE PROTOTYPE ↗](https://agent-bench-umber.vercel.app/) |
+| [**AgentEvalOps**](https://github.com/CacinieP/AgentEvalOps) | A front-end prototype for agent regression testing, drift detection, run comparison, and quality-analysis workflows. | [LIVE PROTOTYPE ↗](https://agent-bench-umber.vercel.app/) · [![Stars](https://img.shields.io/github/stars/CacinieP/AgentEvalOps?style=flat-square&label=STARS)](https://github.com/CacinieP/AgentEvalOps) |
 | [**SMAB**](https://github.com/CacinieP/SMAB) | An executable benchmark for small tool-using language models. | [![Stars](https://img.shields.io/github/stars/CacinieP/SMAB?style=flat-square&label=STARS)](https://github.com/CacinieP/SMAB) |
-| [**MiniCPM5 Network Doctor**](https://github.com/CacinieP/minicpm5-network-doctor) | A local-first, read-only network diagnostics agent powered by MiniCPM5 tool calling. | `LOCAL-FIRST` |
-| [**agent-self-evolution**](https://github.com/CacinieP/agent-self-evolution) | Papers, reproductions, and prototypes for agent self-evolution. | `RESEARCH` |
+| [**MiniCPM5 Network Doctor**](https://github.com/CacinieP/minicpm5-network-doctor) | A local-first, read-only network diagnostics agent powered by MiniCPM5 tool calling. | [![Stars](https://img.shields.io/github/stars/CacinieP/minicpm5-network-doctor?style=flat-square&label=STARS)](https://github.com/CacinieP/minicpm5-network-doctor) · `LOCAL-FIRST` |
+| [**agent-self-evolution**](https://github.com/CacinieP/agent-self-evolution) | Papers, reproductions, and prototypes for agent self-evolution. | [![Stars](https://img.shields.io/github/stars/CacinieP/agent-self-evolution?style=flat-square&label=STARS)](https://github.com/CacinieP/agent-self-evolution) · `RESEARCH` |
 
 ### `01 / CREATOR & DEVELOPER TOOLS`
 
@@ -68,8 +68,8 @@ I am exploring local-first tool use, agent evaluation, and self-evolution. The g
 | [**LPQE-Learning**](https://github.com/CacinieP/LPQE-Learning) | Study notes for China's Legal Professional Qualification Examination. | [![Stars](https://img.shields.io/github/stars/CacinieP/LPQE-Learning?style=flat-square&label=STARS)](https://github.com/CacinieP/LPQE-Learning) |
 | [**music-research**](https://github.com/CacinieP/music-research) | Notes on music understanding, generation, audio engineering, and edge deployment. | [![Stars](https://img.shields.io/github/stars/CacinieP/music-research?style=flat-square&label=STARS)](https://github.com/CacinieP/music-research) |
 | [**linguistics-hackathon-S0-deutsch**](https://github.com/CacinieP/linguistics-hackathon-S0-deutsch) | A solo 48-hour, zero-to-A2 German linguistics hackathon. | [![Stars](https://img.shields.io/github/stars/CacinieP/linguistics-hackathon-S0-deutsch?style=flat-square&label=STARS)](https://github.com/CacinieP/linguistics-hackathon-S0-deutsch) |
-| [**math-to-deep-learning**](https://github.com/CacinieP/math-to-deep-learning) | An applied-math path from paper derivations to GPU training. | `KNOWLEDGE SYSTEM` |
-| [**Mathematics-Universe**](https://github.com/CacinieP/Mathematics-Universe) | A connected mathematics network from high school to graduate-level exams. | `KNOWLEDGE GRAPH` |
+| [**math-to-deep-learning**](https://github.com/CacinieP/math-to-deep-learning) | An applied-math path from paper derivations to GPU training. | [![Stars](https://img.shields.io/github/stars/CacinieP/math-to-deep-learning?style=flat-square&label=STARS)](https://github.com/CacinieP/math-to-deep-learning) · `KNOWLEDGE SYSTEM` |
+| [**Mathematics-Universe**](https://github.com/CacinieP/Mathematics-Universe) | A connected mathematics network from high school to graduate-level exams. | [![Stars](https://img.shields.io/github/stars/CacinieP/Mathematics-Universe?style=flat-square&label=STARS)](https://github.com/CacinieP/Mathematics-Universe) · `KNOWLEDGE GRAPH` |
 
 ### `04 / LINGUISTIC EDGE`
 
