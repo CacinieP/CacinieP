@@ -19,16 +19,16 @@
 
 ### `FEATURED / PIXEL-ART WEB DESIGN`
 
-**[pixel-art-web-design](https://github.com/CacinieP/pixel-art-web-design)** —— Agent Skills 格式的像素风网页设计技能：从网格、色板、字体、精灵缩放到组件、动效与交付检查的完整 SOP。配套原创可玩游戏《萤灯邮差 · Lantern Post》由该技能完成，已部署 GitHub Pages。
+**[pixel-art-web-design](https://github.com/CacinieP/pixel-art-web-design)** —— Agent Skills 格式的像素风网页设计技能：从网格、色板、字体、精灵缩放到组件、动效与交付检查的完整 SOP。配套原创可玩游戏[《萤灯邮差 · Lantern Post》](https://github.com/CacinieP/lantern-post)由该技能完成，已部署 GitHub Pages。
 
 <p align="center">
-  <a href="https://caciniep.github.io/pixel-art-web-design/"><img alt="Play on GitHub Pages" src="https://img.shields.io/badge/PLAY_ONLINE-GITHUB_PAGES_IO-f2c14e?style=flat-square&labelColor=1a1a2e"></a>
+  <a href="https://caciniep.github.io/lantern-post/"><img alt="Play on GitHub Pages" src="https://img.shields.io/badge/PLAY_ONLINE-GITHUB_PAGES_IO-f2c14e?style=flat-square&labelColor=1a1a2e"></a>
   <a href="https://github.com/CacinieP/pixel-art-web-design"><img alt="Skill repository" src="https://img.shields.io/badge/SKILL-REPOSITORY-e86a5a?style=flat-square&labelColor=1a1a2e"></a>
   <a href="https://github.com/CacinieP/pixel-art-web-design/blob/main/SKILL.md"><img alt="Skill entry SKILL.md" src="https://img.shields.io/badge/ENTRY-SKILL.md-6fb7a5?style=flat-square&labelColor=1a1a2e"></a>
 </p>
 
 <p align="center">
-  <a href="https://caciniep.github.io/pixel-art-web-design/"><img src="https://raw.githubusercontent.com/CacinieP/pixel-art-web-design/main/docs/preview-desktop.png" width="720" alt="萤灯邮差 · Lantern Post 桌面端预览"></a>
+  <a href="https://caciniep.github.io/lantern-post/"><img src="https://raw.githubusercontent.com/CacinieP/lantern-post/main/docs/preview-desktop.png" width="720" alt="萤灯邮差 · Lantern Post 桌面端预览"></a>
 </p>
 
 安装：`npx skills add https://github.com/CacinieP/pixel-art-web-design.git -g` · [MIT](https://github.com/CacinieP/pixel-art-web-design/blob/main/LICENSE)
@@ -75,7 +75,7 @@
 |---|---|---|
 | **溯时 SUSHI** | 可回溯的 iOS 计时体验。 | [APP STORE ↗](https://apps.apple.com/cn/app/%E6%BA%AF%E6%97%B6/id6779997923) |
 | **Codetics / 语码游戏** | 关于噪声、压缩、认知偏误与意义保存的互动叙事实验。 | [**▶ 立即游玩 ↗**](https://codetics.vercel.app/) |
-| [**萤灯邮差 · Lantern Post**](https://github.com/CacinieP/pixel-art-web-design) | 用 pixel-art-web-design 技能完成的像素投递游戏：三条邮路、护符升级、触屏操作与芯片音效。 | [**▶ 立即游玩 ↗**](https://caciniep.github.io/pixel-art-web-design/) · [![Stars](https://img.shields.io/github/stars/CacinieP/pixel-art-web-design?style=flat-square&label=STARS)](https://github.com/CacinieP/pixel-art-web-design) |
+| [**萤灯邮差 · Lantern Post**](https://github.com/CacinieP/lantern-post) | 用 pixel-art-web-design 技能完成的像素投递游戏：三条邮路、护符升级、触屏操作与芯片音效。 | [**▶ 立即游玩 ↗**](https://caciniep.github.io/lantern-post/) · [![Stars](https://img.shields.io/github/stars/CacinieP/lantern-post?style=flat-square&label=STARS)](https://github.com/CacinieP/lantern-post) |
 | [**MathConnect**](https://github.com/CacinieP/MathConnect) | 练习等价无穷小的微积分连连看。 | [在线体验 ↗](https://caciniep.github.io/MathConnect/) · [![Stars](https://img.shields.io/github/stars/CacinieP/MathConnect?style=flat-square&label=STARS)](https://github.com/CacinieP/MathConnect) |
 | [**FemaleFriendliness**](https://github.com/CacinieP/FemaleFriendliness) | 女性友好度自测互动页面。 | [![Stars](https://img.shields.io/github/stars/CacinieP/FemaleFriendliness?style=flat-square&label=STARS)](https://github.com/CacinieP/FemaleFriendliness) |
 | [**resume**](https://github.com/CacinieP/resume) | 个人履历网页。 | [在线查看 ↗](https://caciniep.github.io/resume/) · [![Stars](https://img.shields.io/github/stars/CacinieP/resume?style=flat-square&label=STARS)](https://github.com/CacinieP/resume) |

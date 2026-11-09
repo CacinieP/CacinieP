@@ -19,16 +19,16 @@
 
 ### `FEATURED / PIXEL-ART WEB DESIGN`
 
-**[pixel-art-web-design](https://github.com/CacinieP/pixel-art-web-design)** — an Agent Skills-format design skill: a complete SOP from grid, palette, typography, and sprite scaling to components, motion, and delivery checks. Its companion game **Lantern Post**, an original pixel delivery game built with the skill, is live on GitHub Pages.
+**[pixel-art-web-design](https://github.com/CacinieP/pixel-art-web-design)** — an Agent Skills-format design skill: a complete SOP from grid, palette, typography, and sprite scaling to components, motion, and delivery checks. Its companion game **[Lantern Post](https://github.com/CacinieP/lantern-post)**, an original pixel delivery game built with the skill, is live on GitHub Pages.
 
 <p align="center">
-  <a href="https://caciniep.github.io/pixel-art-web-design/"><img alt="Play on GitHub Pages" src="https://img.shields.io/badge/PLAY_ONLINE-GITHUB_PAGES_IO-f2c14e?style=flat-square&labelColor=1a1a2e"></a>
+  <a href="https://caciniep.github.io/lantern-post/"><img alt="Play on GitHub Pages" src="https://img.shields.io/badge/PLAY_ONLINE-GITHUB_PAGES_IO-f2c14e?style=flat-square&labelColor=1a1a2e"></a>
   <a href="https://github.com/CacinieP/pixel-art-web-design"><img alt="Skill repository" src="https://img.shields.io/badge/SKILL-REPOSITORY-e86a5a?style=flat-square&labelColor=1a1a2e"></a>
   <a href="https://github.com/CacinieP/pixel-art-web-design/blob/main/SKILL.md"><img alt="Skill entry SKILL.md" src="https://img.shields.io/badge/ENTRY-SKILL.md-6fb7a5?style=flat-square&labelColor=1a1a2e"></a>
 </p>
 
 <p align="center">
-  <a href="https://caciniep.github.io/pixel-art-web-design/"><img src="https://raw.githubusercontent.com/CacinieP/pixel-art-web-design/main/docs/preview-desktop.png" width="720" alt="Lantern Post desktop preview"></a>
+  <a href="https://caciniep.github.io/lantern-post/"><img src="https://raw.githubusercontent.com/CacinieP/lantern-post/main/docs/preview-desktop.png" width="720" alt="Lantern Post desktop preview"></a>
 </p>
 
 Install: `npx skills add https://github.com/CacinieP/pixel-art-web-design.git -g` · [MIT](https://github.com/CacinieP/pixel-art-web-design/blob/main/LICENSE)
@@ -74,7 +74,7 @@ I am exploring local-first tool use, agent evaluation, and self-evolution. The g
 |---|---|---|
 | **SUSHI / 溯时** | A time-tracking experience designed for returning to past context. | [APP STORE ↗](https://apps.apple.com/app/id6779997923) |
 | **Codetics** | An interactive narrative experiment about noise, compression, cognitive bias, and preserving meaning. | [**▶ PLAY NOW ↗**](https://codetics.vercel.app/) |
-| [**Lantern Post**](https://github.com/CacinieP/pixel-art-web-design) | A pixel delivery game built with the pixel-art-web-design skill: three mail routes, charm upgrades, touch controls, and chiptune audio. | [**▶ PLAY NOW ↗**](https://caciniep.github.io/pixel-art-web-design/) · [![Stars](https://img.shields.io/github/stars/CacinieP/pixel-art-web-design?style=flat-square&label=STARS)](https://github.com/CacinieP/pixel-art-web-design) |
+| [**Lantern Post**](https://github.com/CacinieP/lantern-post) | A pixel delivery game built with the pixel-art-web-design skill: three mail routes, charm upgrades, touch controls, and chiptune audio. | [**▶ PLAY NOW ↗**](https://caciniep.github.io/lantern-post/) · [![Stars](https://img.shields.io/github/stars/CacinieP/lantern-post?style=flat-square&label=STARS)](https://github.com/CacinieP/lantern-post) |
 | [**MathConnect**](https://github.com/CacinieP/MathConnect) | A calculus connect puzzle for practicing equivalent infinitesimals. | [Play online ↗](https://caciniep.github.io/MathConnect/) · [![Stars](https://img.shields.io/github/stars/CacinieP/MathConnect?style=flat-square&label=STARS)](https://github.com/CacinieP/MathConnect) |
 | [**FemaleFriendliness**](https://github.com/CacinieP/FemaleFriendliness) | An interactive self-assessment for female friendliness. | [![Stars](https://img.shields.io/github/stars/CacinieP/FemaleFriendliness?style=flat-square&label=STARS)](https://github.com/CacinieP/FemaleFriendliness) |
 | [**resume**](https://github.com/CacinieP/resume) | My personal résumé website. | [View online ↗](https://caciniep.github.io/resume/) · [![Stars](https://img.shields.io/github/stars/CacinieP/resume?style=flat-square&label=STARS)](https://github.com/CacinieP/resume) |
