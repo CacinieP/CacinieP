@@ -17,6 +17,24 @@
 
 ---
 
+### `FEATURED / PIXEL-ART WEB DESIGN`
+
+**[pixel-art-web-design](https://github.com/CacinieP/pixel-art-web-design)** —— Agent Skills 格式的像素风网页设计技能：从网格、色板、字体、精灵缩放到组件、动效与交付检查的完整 SOP。配套原创可玩游戏《萤灯邮差 · Lantern Post》由该技能完成，已部署 GitHub Pages。
+
+<p align="center">
+  <a href="https://caciniep.github.io/pixel-art-web-design/"><img alt="Play on GitHub Pages" src="https://img.shields.io/badge/PLAY_ONLINE-GITHUB_PAGES_IO-f2c14e?style=flat-square&labelColor=1a1a2e"></a>
+  <a href="https://github.com/CacinieP/pixel-art-web-design"><img alt="Skill repository" src="https://img.shields.io/badge/SKILL-REPOSITORY-e86a5a?style=flat-square&labelColor=1a1a2e"></a>
+  <a href="https://github.com/CacinieP/pixel-art-web-design/blob/main/SKILL.md"><img alt="Skill entry SKILL.md" src="https://img.shields.io/badge/ENTRY-SKILL.md-6fb7a5?style=flat-square&labelColor=1a1a2e"></a>
+</p>
+
+<p align="center">
+  <a href="https://caciniep.github.io/pixel-art-web-design/"><img src="https://raw.githubusercontent.com/CacinieP/pixel-art-web-design/main/docs/preview-desktop.png" width="720" alt="萤灯邮差 · Lantern Post 桌面端预览"></a>
+</p>
+
+安装：`npx skills add https://github.com/CacinieP/pixel-art-web-design.git -g` · [MIT](https://github.com/CacinieP/pixel-art-web-design/blob/main/LICENSE)
+
+---
+
 ### `00 / AI AGENTS & EVALUATION`
 
 **Agent 如何成为可靠的行动者？**
@@ -43,6 +61,7 @@
 | [**slide-recipes**](https://github.com/CacinieP/slide-recipes) | 面向 AI Agent 的可编辑商业 PPTX：9 套审美 recipe、20 套语义配色、中文排版与渲染检查。 | [![Stars](https://img.shields.io/github/stars/CacinieP/slide-recipes?style=flat-square&label=STARS)](https://github.com/CacinieP/slide-recipes) |
 | [**NetAssist**](https://github.com/CacinieP/NetAssist) | 基于 Tauri + React 的网络诊断与监控桌面工具，支持连通性检测、实时监控、DNS 查询与端口扫描。 | [![Stars](https://img.shields.io/github/stars/CacinieP/NetAssist?style=flat-square&label=STARS)](https://github.com/CacinieP/NetAssist) |
 | [**network-troubleshoot-skill**](https://github.com/CacinieP/network-troubleshoot-skill) | 面向 AI 编程 Agent 的通用网络排障技能。 | [![Stars](https://img.shields.io/github/stars/CacinieP/network-troubleshoot-skill?style=flat-square&label=STARS)](https://github.com/CacinieP/network-troubleshoot-skill) · [已收录](https://github.com/PatrickJS/awesome-cursorrules/pull/292) |
+| [**pixel-art-web-design**](https://github.com/CacinieP/pixel-art-web-design) | Agent Skills 格式的像素风网页设计 SOP：网格、色板、字体、精灵缩放、组件与交付检查。 | [![Stars](https://img.shields.io/github/stars/CacinieP/pixel-art-web-design?style=flat-square&label=STARS)](https://github.com/CacinieP/pixel-art-web-design) · [SKILL.md](https://github.com/CacinieP/pixel-art-web-design/blob/main/SKILL.md) |
 | [**FinancialBeancount**](https://github.com/CacinieP/FinancialBeancount) | 支付宝、微信、银行卡账单的本地转换与去重。 | [![Stars](https://img.shields.io/github/stars/CacinieP/FinancialBeancount?style=flat-square&label=STARS)](https://github.com/CacinieP/FinancialBeancount) · [已收录](https://github.com/siddhantgoel/awesome-beancount/pull/76) |
 | [**typing-master**](https://github.com/CacinieP/typing-master) | 六种语言的多语言打字练习桌面应用。 | [![Stars](https://img.shields.io/github/stars/CacinieP/typing-master?style=flat-square&label=STARS)](https://github.com/CacinieP/typing-master) |
 | [**Lang Master**](https://github.com/CacinieP/lang-master) | 从自然语言学视角学习编程语言，通过对照词法、构造、句法、语义与语用，理解同一概念在不同语言中如何表达和运作。Alpha 支持探索 Python、C、Java 和 Rust。 | [在线体验 ↗](https://caciniep.github.io/lang-master/) · [![Stars](https://img.shields.io/github/stars/CacinieP/lang-master?style=flat-square&label=STARS)](https://github.com/CacinieP/lang-master) |
@@ -56,6 +75,7 @@
 |---|---|---|
 | **溯时 SUSHI** | 可回溯的 iOS 计时体验。 | [APP STORE ↗](https://apps.apple.com/cn/app/%E6%BA%AF%E6%97%B6/id6779997923) |
 | **Codetics / 语码游戏** | 关于噪声、压缩、认知偏误与意义保存的互动叙事实验。 | [**▶ 立即游玩 ↗**](https://codetics.vercel.app/) |
+| [**萤灯邮差 · Lantern Post**](https://github.com/CacinieP/pixel-art-web-design) | 用 pixel-art-web-design 技能完成的像素投递游戏：三条邮路、护符升级、触屏操作与芯片音效。 | [**▶ 立即游玩 ↗**](https://caciniep.github.io/pixel-art-web-design/) · [![Stars](https://img.shields.io/github/stars/CacinieP/pixel-art-web-design?style=flat-square&label=STARS)](https://github.com/CacinieP/pixel-art-web-design) |
 | [**MathConnect**](https://github.com/CacinieP/MathConnect) | 练习等价无穷小的微积分连连看。 | [在线体验 ↗](https://caciniep.github.io/MathConnect/) · [![Stars](https://img.shields.io/github/stars/CacinieP/MathConnect?style=flat-square&label=STARS)](https://github.com/CacinieP/MathConnect) |
 | [**FemaleFriendliness**](https://github.com/CacinieP/FemaleFriendliness) | 女性友好度自测互动页面。 | [![Stars](https://img.shields.io/github/stars/CacinieP/FemaleFriendliness?style=flat-square&label=STARS)](https://github.com/CacinieP/FemaleFriendliness) |
 | [**resume**](https://github.com/CacinieP/resume) | 个人履历网页。 | [在线查看 ↗](https://caciniep.github.io/resume/) · [![Stars](https://img.shields.io/github/stars/CacinieP/resume?style=flat-square&label=STARS)](https://github.com/CacinieP/resume) |
