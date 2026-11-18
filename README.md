@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://caciniep.github.io/">Portfolio</a> ·
-  <a href="https://linguistwantstech.online/">研究与工程笔记</a> ·
+  <a href="https://linguistwantstech.online/builds">作品集</a> ·
+  <a href="https://linguistwantstech.online/notes">研究与工程笔记</a> ·
   <a href="mailto:cacinie@gmail.com">Email</a> ·
   <a href="./README.en.md">English</a>
 </p>
@@ -153,4 +153,4 @@ _10 merged PRs across 5 repos · auto-updated daily._
 
 ---
 
-[全部仓库](https://github.com/CacinieP?tab=repositories) · [个人网站](https://caciniep.github.io/) · [联系我](mailto:cacinie@gmail.com)
+[全部仓库](https://github.com/CacinieP?tab=repositories) · [个人网站](https://linguistwantstech.online/) · [联系我](mailto:cacinie@gmail.com)

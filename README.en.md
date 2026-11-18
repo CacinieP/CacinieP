@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://caciniep.github.io/">Portfolio</a> ·
-  <a href="https://linguistwantstech.online/">Field notes</a> ·
+  <a href="https://linguistwantstech.online/en/builds">Projects</a> ·
+  <a href="https://linguistwantstech.online/en/notes">Field notes</a> ·
   <a href="mailto:cacinie@gmail.com">Email</a> ·
   <a href="./README.md">中文</a>
 </p>
@@ -153,4 +153,4 @@ The images below are project content diagrams.
 
 ---
 
-[All repositories](https://github.com/CacinieP?tab=repositories) · [Portfolio](https://caciniep.github.io/) · [Contact](mailto:cacinie@gmail.com)
+[All repositories](https://github.com/CacinieP?tab=repositories) · [Website](https://linguistwantstech.online/en/) · [Contact](mailto:cacinie@gmail.com)
