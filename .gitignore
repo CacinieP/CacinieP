@@ -27,3 +27,10 @@ build/
 # Misc
 *.bak
 *~
+
+# Local README preview
+preview/vendor/
+preview/index.html
+preview/english.html
+preview/project-gallery.html
+preview/codetics-scenes.html

@@ -1,143 +1,156 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="Cace — AI Builder with Linguistic Acumen" />
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-hero.png" />
+    <img src="./assets/profile-hero.gif" width="1200" alt="Cace — Small models. Real work. A Three.js loop connecting parse, act, and verify." />
+  </picture>
 </p>
 
 <p align="center">
-  <strong>AI Builder with Linguistic Acumen</strong><br/>
-  <sub>I build agents, developer tools, and learning systems with a linguist's eye for structure and context.</sub>
+  <strong>Building local-first AI tools and reliable agents.</strong><br/>
+  <sub>Small-model tool use, multimodal math writing, and executable evaluation. Linguistic training informs how I parse intent, organize context, and design tool interfaces.</sub>
 </p>
 
 <p align="center">
-  <a href="https://caciniep.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-caciniep.github.io-14262b?style=flat-square"></a>
-  <a href="https://linguistwantstech.com/"><img alt="Linguist Wants Tech" src="https://img.shields.io/badge/WEBSITE-linguistwantstech.com-e9795f?style=flat-square&labelColor=14262b"></a>
-  <a href="https://linguistwantstech.online/"><img alt="Blog" src="https://img.shields.io/badge/FIELD_NOTES-linguistwantstech.online-69c8bd?style=flat-square&labelColor=14262b"></a>
-  <a href="https://github.com/CacinieP?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/CacinieP?style=flat-square&label=FOLLOWERS&labelColor=14262b&color=e9795f"></a>
-  <a href="./README.md"><img alt="Chinese" src="https://img.shields.io/badge/LANGUAGE-中文-f4f0e8?style=flat-square&labelColor=14262b"></a>
+  <a href="https://caciniep.github.io/">Portfolio</a> ·
+  <a href="https://linguistwantstech.online/">Field notes</a> ·
+  <a href="mailto:cacinie@gmail.com">Email</a> ·
+  <a href="./README.md">中文</a>
 </p>
 
 ---
 
-### `FEATURED / PIXEL-ART WEB DESIGN`
+## Codetics / 语码游戏
 
-**[pixel-art-web-design](https://github.com/CacinieP/pixel-art-web-design)** — an Agent Skills-format design skill: a complete SOP from grid, palette, typography, and sprite scaling to components, motion, and delivery checks. Its companion game **[Lantern Post](https://github.com/CacinieP/lantern-post)**, an original pixel delivery game built with the skill, is live on GitHub Pages.
+<a href="https://codetics.vercel.app/">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/projects/codetics-scene.png" />
+    <img src="./assets/projects/codetics-play.gif" width="1080" alt="Codetics actual gameplay: animated radio receivers, signal reception, semantic tagging, perspective, and compression" />
+  </picture>
+</a>
 
-<p align="center">
-  <a href="https://caciniep.github.io/pixel-art-web-design/"><img alt="Play on GitHub Pages" src="https://img.shields.io/badge/PLAY_ONLINE-GITHUB_PAGES_IO-f2c14e?style=flat-square&labelColor=1a1a2e"></a>
-  <a href="https://github.com/CacinieP/pixel-art-web-design"><img alt="Skill repository" src="https://img.shields.io/badge/SKILL-REPOSITORY-e86a5a?style=flat-square&labelColor=1a1a2e"></a>
-  <a href="https://github.com/CacinieP/pixel-art-web-design/blob/main/SKILL.md"><img alt="Skill entry SKILL.md" src="https://img.shields.io/badge/ENTRY-SKILL.md-6fb7a5?style=flat-square&labelColor=1a1a2e"></a>
-</p>
+<details>
+<summary>Four scenes: signal reception, semantic tagging, rhetoric, and Babel</summary>
 
-<p align="center">
-  <a href="https://caciniep.github.io/pixel-art-web-design/"><img src="https://raw.githubusercontent.com/CacinieP/pixel-art-web-design/main/game/docs/preview-desktop.png" width="720" alt="Lantern Post desktop preview"></a>
-</p>
+<a href="https://codetics.vercel.app/"><img src="./assets/projects/codetics-scenes.png" width="1080" alt="Codetics four actual gameplay scene captures" /></a>
 
-Install: `npx skills add https://github.com/CacinieP/pixel-art-web-design.git -g` · [MIT](https://github.com/CacinieP/pixel-art-web-design/blob/main/LICENSE)
+</details>
 
----
+**Reconstruct meaning through noise.**
 
-### `00 / AI AGENTS & EVALUATION`
+Receive signals in the noise radio, tag semantic units, choose compression strategies, examine rhetoric, and explore Babel’s semantic fields. Linguistics and information theory become playable rules: when messages are compressed, misread, and retold, how much meaning can a civilization retain?
 
-**How do agents become reliable actors?**
+[Enter Codetics ↗](https://codetics.vercel.app/) · Chinese / English · Progress saved in this browser · Includes the short story “仍在唱歌的空城”
 
-I am exploring local-first tool use, agent evaluation, and self-evolution. The goal is not to make a model produce more expression, but to build systems that act reliably with limited context, explicit permissions, and real feedback.
+## Math & language tools
 
-`MAP CAPABILITY BOUNDARIES` → `DESIGN TOOL GRAMMARS` → `MEASURE TASK ENTROPY` → `CLOSE THE LOOP`
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/CacinieP/TeXada-the-Math-Agent"><img src="./assets/projects/texada-openbmb-en.png" width="440" alt="TeXada" /></a><p><strong><a href="https://github.com/CacinieP/TeXada-the-Math-Agent">TeXada</a></strong></p><p>Natural language, screenshots, and LaTeX → checked formula candidates, with specialist tools for validation, repair, and rendering.</p><p><a href="https://github.com/CacinieP/TeXada-the-Math-Agent/releases">Download ↗</a> · <a href="https://openbmb.cn/docs/en/showcase/texada-math-agent">OpenBMB · Developer Showcase ↗</a></p></td>
+<td width="50%" valign="top"><a href="https://github.com/CacinieP/TeXada-Studio-with-agentskills"><img src="./assets/projects/studio.png" width="440" alt="TeXada Studio" /></a><p><strong><a href="https://github.com/CacinieP/TeXada-Studio-with-agentskills">TeXada Studio</a></strong></p><p>Local editing, candidate diffs, human review, and PDF compilation/export. Currently a development candidate.</p><p><a href="https://github.com/CacinieP/TeXada-Studio-with-agentskills/blob/main/docs/current-validation.md">Validation ↗</a></p></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/CacinieP/launchgrid"><img src="./assets/projects/launchgrid.png" width="440" alt="LaunchGrid" /></a><p><strong><a href="https://github.com/CacinieP/launchgrid">LaunchGrid</a></strong></p><p>A Mac launcher with process, clipboard, and network panels.</p><p><a href="https://github.com/CacinieP/launchgrid/releases">Download ↗</a></p></td>
+<td width="50%" valign="top"><a href="https://github.com/CacinieP/lang-master"><img src="./assets/projects/lang.png" width="440" alt="Lang Master" /></a><p><strong><a href="https://github.com/CacinieP/lang-master">Lang Master</a></strong></p><p>Explore programming languages through lexicon, morphology, syntax, semantics, and pragmatics.</p><p><a href="https://caciniep.github.io/lang-master/">Try online ↗</a></p></td>
+</tr>
+</table>
 
-| PROJECT | PURPOSE | SIGNAL |
-|---|---|---|
-| [**TeXada**](https://github.com/CacinieP/TeXada-the-Math-Agent) | Natural language / LaTeX / formula screenshots in one verifiable math-writing flow. | [![Stars](https://img.shields.io/github/stars/CacinieP/TeXada-the-Math-Agent?style=flat-square&label=STARS)](https://github.com/CacinieP/TeXada-the-Math-Agent) |
-| [**TeXada Studio**](https://github.com/CacinieP/TeXada-Studio-with-agentskills) | A LaTeX document QC workbench: rule checks + local models + compile preview + human-in-the-loop review. | [![Stars](https://img.shields.io/github/stars/CacinieP/TeXada-Studio-with-agentskills?style=flat-square&label=STARS)](https://github.com/CacinieP/TeXada-Studio-with-agentskills) |
-| [**AgentEvalOps**](https://github.com/CacinieP/AgentEvalOps) | A front-end prototype for agent regression testing, drift detection, run comparison, and quality-analysis workflows. | [LIVE PROTOTYPE ↗](https://agent-bench-umber.vercel.app/) · [![Stars](https://img.shields.io/github/stars/CacinieP/AgentEvalOps?style=flat-square&label=STARS)](https://github.com/CacinieP/AgentEvalOps) |
-| [**SMAB**](https://github.com/CacinieP/SMAB) | An executable benchmark for small tool-using language models. | [![Stars](https://img.shields.io/github/stars/CacinieP/SMAB?style=flat-square&label=STARS)](https://github.com/CacinieP/SMAB) |
-| [**MiniCPM5 Network Doctor**](https://github.com/CacinieP/minicpm5-network-doctor) | A local-first, read-only network diagnostics agent powered by MiniCPM5 tool calling. | [![Stars](https://img.shields.io/github/stars/CacinieP/minicpm5-network-doctor?style=flat-square&label=STARS)](https://github.com/CacinieP/minicpm5-network-doctor) · `LOCAL-FIRST` |
-| [**agent-self-evolution**](https://github.com/CacinieP/agent-self-evolution) | Papers, reproductions, and prototypes for agent self-evolution. | [![Stars](https://img.shields.io/github/stars/CacinieP/agent-self-evolution?style=flat-square&label=STARS)](https://github.com/CacinieP/agent-self-evolution) · `RESEARCH` |
+## SMAB / Executable small-model evaluation
 
-### `01 / CREATOR & DEVELOPER TOOLS`
+**Trace each failure back to a protocol, an action, and a recorded run.**
 
-| PROJECT | PURPOSE | SIGNAL |
-|---|---|---|
-| [**LaunchGrid**](https://github.com/CacinieP/launchgrid) | macOS 26/27 Launchpad replacement: F4 app grid, ⌥F4 process manager, ⇧F4 clipboard history with paste-back, ⇧⌥F4 network panel; single Swift package, no third-party deps, notarized DMG release. | [![Stars](https://img.shields.io/github/stars/CacinieP/launchgrid?style=flat-square&label=STARS)](https://github.com/CacinieP/launchgrid) · `NOTARIZED` |
-| [**video2knowledge**](https://github.com/CacinieP/video2knowledge) | Video → timestamped transcript → knowledge docs / HTML / Anki through local VLM and ASR paths. | [![Stars](https://img.shields.io/github/stars/CacinieP/video2knowledge?style=flat-square&label=STARS)](https://github.com/CacinieP/video2knowledge) |
-| [**slide-recipes**](https://github.com/CacinieP/slide-recipes) | Editable business PPTX for AI agents: 9 visual recipes, 20 semantic palettes, CJK-aware layout and render checks. | [![Stars](https://img.shields.io/github/stars/CacinieP/slide-recipes?style=flat-square&label=STARS)](https://github.com/CacinieP/slide-recipes) |
-| [**NetAssist**](https://github.com/CacinieP/NetAssist) | A Tauri + React desktop tool for network diagnostics, real-time monitoring, DNS queries, and port scanning. | [![Stars](https://img.shields.io/github/stars/CacinieP/NetAssist?style=flat-square&label=STARS)](https://github.com/CacinieP/NetAssist) |
-| [**network-troubleshoot-skill**](https://github.com/CacinieP/network-troubleshoot-skill) | A universal network troubleshooting skill for AI coding agents. | [![Stars](https://img.shields.io/github/stars/CacinieP/network-troubleshoot-skill?style=flat-square&label=STARS)](https://github.com/CacinieP/network-troubleshoot-skill) · [Accepted](https://github.com/PatrickJS/awesome-cursorrules/pull/292) |
-| [**pixel-art-web-design**](https://github.com/CacinieP/pixel-art-web-design) | An Agent Skills-format pixel-art web design SOP: grid, palettes, typography, sprite scaling, components, and delivery checks. | [![Stars](https://img.shields.io/github/stars/CacinieP/pixel-art-web-design?style=flat-square&label=STARS)](https://github.com/CacinieP/pixel-art-web-design) · [SKILL.md](https://github.com/CacinieP/pixel-art-web-design/blob/main/SKILL.md) |
-| [**FinancialBeancount**](https://github.com/CacinieP/FinancialBeancount) | Local conversion and deduplication for Alipay, WeChat Pay, and bank statements. | [![Stars](https://img.shields.io/github/stars/CacinieP/FinancialBeancount?style=flat-square&label=STARS)](https://github.com/CacinieP/FinancialBeancount) · [Accepted](https://github.com/siddhantgoel/awesome-beancount/pull/76) |
-| [**typing-master**](https://github.com/CacinieP/typing-master) | A multilingual typing-practice desktop app for six languages. | [![Stars](https://img.shields.io/github/stars/CacinieP/typing-master?style=flat-square&label=STARS)](https://github.com/CacinieP/typing-master) |
-| [**cace-timer**](https://github.com/CacinieP/cace-timer) | A local-first time-tracking CLI with marks, estimates, search, and sync. | [![Stars](https://img.shields.io/github/stars/CacinieP/cace-timer?style=flat-square&label=STARS)](https://github.com/CacinieP/cace-timer) |
-| [**screenshot-auto-saver**](https://github.com/CacinieP/screenshot-auto-saver) | A Chrome extension for automatic webpage screenshots. | [![Stars](https://img.shields.io/github/stars/CacinieP/screenshot-auto-saver?style=flat-square&label=STARS)](https://github.com/CacinieP/screenshot-auto-saver) |
-| [**PyRecorder**](https://github.com/CacinieP/PyRecorder) | A lightweight Windows screen recorder built with Python. | [![Stars](https://img.shields.io/github/stars/CacinieP/PyRecorder?style=flat-square&label=STARS)](https://github.com/CacinieP/PyRecorder) |
+- **Separate model capability from protocol fit.** Probe endpoint support for tools, templates, and structured output before comparing native and JSON paths, reducing confusion between runtime differences and model capability.
+- **Locate the failing step.** Inspect selection, arguments, dependencies, state, recovery, and stopping; compare task horizons with full tool traces.
+- **Measure repeatability.** Keep every run and report the mean, standard deviation, and pass^k to examine repeated success on the same tasks.
+- **Iterate locally with controlled tasks.** Short bilingual cases and deterministic tool fixtures support comparisons of small models, quantization, and prompts without real business side effects.
 
-### `02 / SHIPPED & INTERACTIVE`
+[Run SMAB](https://github.com/CacinieP/SMAB#快速开始) · [Protocol adaptation](https://github.com/CacinieP/SMAB/blob/main/docs/FRAMEWORK_ADAPTATION.md) · [Raw traces & repeated runs](https://github.com/CacinieP/SMAB/tree/main/docs/evidence/minicpm-local-r3-2026-11-16)
 
-| PROJECT | EXPERIENCE | ACCESS |
-|---|---|---|
-| **SUSHI / 溯时** | A time-tracking experience designed for returning to past context. | [APP STORE ↗](https://apps.apple.com/app/id6779997923) |
-| **Codetics** | An interactive narrative experiment about noise, compression, cognitive bias, and preserving meaning. | [**▶ PLAY NOW ↗**](https://codetics.vercel.app/) |
-| [**Lantern Post**](https://github.com/CacinieP/lantern-post) | A pixel delivery game built with the pixel-art-web-design skill: three mail routes, charm upgrades, touch controls, and chiptune audio. | [**▶ PLAY NOW ↗**](https://caciniep.github.io/pixel-art-web-design/) · [![Stars](https://img.shields.io/github/stars/CacinieP/lantern-post?style=flat-square&label=STARS)](https://github.com/CacinieP/lantern-post) |
-| [**MathConnect**](https://github.com/CacinieP/MathConnect) | A calculus connect puzzle for practicing equivalent infinitesimals. | [Play online ↗](https://caciniep.github.io/MathConnect/) · [![Stars](https://img.shields.io/github/stars/CacinieP/MathConnect?style=flat-square&label=STARS)](https://github.com/CacinieP/MathConnect) |
-| [**FemaleFriendliness**](https://github.com/CacinieP/FemaleFriendliness) | An interactive self-assessment for female friendliness. | [![Stars](https://img.shields.io/github/stars/CacinieP/FemaleFriendliness?style=flat-square&label=STARS)](https://github.com/CacinieP/FemaleFriendliness) |
-| [**resume**](https://github.com/CacinieP/resume) | My personal résumé website. | [View online ↗](https://caciniep.github.io/resume/) · [![Stars](https://img.shields.io/github/stars/CacinieP/resume?style=flat-square&label=STARS)](https://github.com/CacinieP/resume) |
+## SUSHI / 溯时 · Time, served one plate at a time
 
-### `03 / KNOWLEDGE & RESEARCH`
+[![SUSHI: cream, wood, and orange UI with conveyor, timer, and home screens](./assets/projects/sushi.png)](https://apps.apple.com/app/id6779997923)
 
-| PROJECT | FOCUS | SIGNAL |
-|---|---|---|
-| [**inference-optimization-index**](https://github.com/CacinieP/inference-optimization-index) | A link-verified index for LLM inference optimization: serving, edge/general inference, books, courses and papers. | [![Stars](https://img.shields.io/github/stars/CacinieP/inference-optimization-index?style=flat-square&label=STARS)](https://github.com/CacinieP/inference-optimization-index) |
-| [**CICPA-Learning**](https://github.com/CacinieP/CICPA-Learning) | An open-source 2026 CPA study guide with subject indexes and learning resources. | [![Stars](https://img.shields.io/github/stars/CacinieP/CICPA-Learning?style=flat-square&label=STARS)](https://github.com/CacinieP/CICPA-Learning) |
-| [**LPQE-Learning**](https://github.com/CacinieP/LPQE-Learning) | Study notes for China's Legal Professional Qualification Examination. | [![Stars](https://img.shields.io/github/stars/CacinieP/LPQE-Learning?style=flat-square&label=STARS)](https://github.com/CacinieP/LPQE-Learning) |
-| [**music-research**](https://github.com/CacinieP/music-research) | Notes on music understanding, generation, audio engineering, and edge deployment. | [![Stars](https://img.shields.io/github/stars/CacinieP/music-research?style=flat-square&label=STARS)](https://github.com/CacinieP/music-research) |
-| [**linguistics-hackathon-S0-deutsch**](https://github.com/CacinieP/linguistics-hackathon-S0-deutsch) | A solo 48-hour, zero-to-A2 German linguistics hackathon. | [![Stars](https://img.shields.io/github/stars/CacinieP/linguistics-hackathon-S0-deutsch?style=flat-square&label=STARS)](https://github.com/CacinieP/linguistics-hackathon-S0-deutsch) |
-| [**math-to-deep-learning**](https://github.com/CacinieP/math-to-deep-learning) | An applied-math path from paper derivations to GPU training. | [![Stars](https://img.shields.io/github/stars/CacinieP/math-to-deep-learning?style=flat-square&label=STARS)](https://github.com/CacinieP/math-to-deep-learning) · `KNOWLEDGE SYSTEM` |
-| [**Mathematics-Universe**](https://github.com/CacinieP/Mathematics-Universe) | A connected mathematics network from high school to graduate-level exams. | [![Stars](https://img.shields.io/github/stars/CacinieP/Mathematics-Universe?style=flat-square&label=STARS)](https://github.com/CacinieP/Mathematics-Universe) · `KNOWLEDGE GRAPH` |
+**Conveyor-belt sushi is the metaphor behind its focus sessions.**
 
-### `04 / LINGUISTIC EDGE`
+Different portions of focus pass in front of you: a 5-minute bite, a 15-minute dessert, a 30-minute main, a 60-minute feast, or a custom duration. Pick a plate that fits your energy, attach or draw a task, and begin one concrete session.
 
-> I bring linguistic training into AI building: parse the real intent, determine context boundaries, create a shared grammar for interfaces, and let feedback continuously correct the system.
->
-> Language is not decoration after the interface. It is architecture before the system.
+Completed sessions accumulate as plates; tasks, guardians, and notes retain what you spent that time on. The question becomes: which plate would you like to pick up now?
 
-```
-[ parse ] understand intent  →  [ model ] organize context  →  [ build ] make understanding run
-```
+[Download on the App Store ↗](https://apps.apple.com/app/id6779997923) · iOS / iPadOS · Local data · No login
 
-| `SYNTAX / RELATIONS` | `CONTEXT / MEANING` | `INTERFACE / TRANSLATION` |
-|---|---|---|
-| Stabilize roles, dependencies, and actions so complexity remains understandable. | Meaning happens in context; reliability begins with preserving the right context. | An interface does not erase differences—it teaches different systems how to speak. |
+## Agent skills & data tools
 
-### `05 / WORKING STACK`
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/CacinieP/slide-recipes"><img src="./assets/projects/slides.png" width="440" alt="slide-recipes" /></a><p><strong><a href="https://github.com/CacinieP/slide-recipes">slide-recipes</a></strong></p><p>Editable PPTX recipes for agents, with CJK layout and render checks.</p><p><a href="https://github.com/CacinieP/slide-recipes#readme">Usage ↗</a></p></td>
+<td width="50%" valign="top"><a href="https://github.com/CacinieP/video2knowledge"><img src="./assets/projects/video.png" width="440" alt="video2knowledge" /></a><p><strong><a href="https://github.com/CacinieP/video2knowledge">video2knowledge</a></strong></p><p>Turn videos into source-linked notes, with optional subtitles, HTML, and Anki.</p><p><a href="https://github.com/CacinieP/video2knowledge/tree/main/example">Example outputs ↗</a></p></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/CacinieP/minicpm5-network-doctor"><img src="./assets/projects/doctor.png" width="440" alt="MiniCPM Network Doctor" /></a><p><strong><a href="https://github.com/CacinieP/minicpm5-network-doctor">MiniCPM Network Doctor</a></strong></p><p>Read-only network diagnostics with local models and traceable tool evidence.</p><p><a href="https://github.com/CacinieP/minicpm5-network-doctor#readme">Source & guide ↗</a></p></td>
+<td width="50%" valign="top"><a href="https://github.com/CacinieP/FinancialBeancount"><img src="./assets/projects/beancount.png" width="440" alt="FinancialBeancount" /></a><p><strong><a href="https://github.com/CacinieP/FinancialBeancount">FinancialBeancount</a></strong></p><p>Local conversion and deduplication of Alipay, WeChat Pay, and bank statements.</p><p><a href="https://github.com/CacinieP/FinancialBeancount#readme">Usage ↗</a></p></td>
+</tr>
+</table>
 
-`Python` `TypeScript` `JavaScript` `Swift` `Rust` `Kotlin`
+## Selected contributions
 
-`LLM Agents` `MCP` `Tool Use` `VLM / ASR` `Local-first AI` `Evaluation`
-
-`React` `Astro` `Vite` `Tauri` `Electron` `GitHub Actions`
-
-### `06 / OPEN-SOURCE IMPACT`
-
-Substantive engineering and content contributions are ranked by upstream repository ⭐ and updated daily. Directory-listing contributions stay with their projects below instead of being repeated here:
+Upstream work on toolchain fixes, tests, and documentation. Only merged PRs appear below, with relevant engineering work listed first; each link leads to the actual change.
 
 <!-- START: oss-contributions -->
 <!-- This block is auto-generated by .github/workflows/update-contributions.yml — do not edit by hand. -->
 _10 merged PRs across 5 repos · auto-updated daily._
 
-| Project | ★ | My merged PRs |
-|---|---|---|
-| [**cc-switch**](https://github.com/farion1231/cc-switch) | [![Stars](https://img.shields.io/github/stars/farion1231/cc-switch?style=flat-square&label=%20)](https://github.com/farion1231/cc-switch) | [#7099](https://github.com/farion1231/cc-switch/pull/7099) — fix(claude): allow npm scripts in the primary update path |
-| [**rust**](https://github.com/rust-lang/rust) | [![Stars](https://img.shields.io/github/stars/rust-lang/rust?style=flat-square&label=%20)](https://github.com/rust-lang/rust) | [#160538](https://github.com/rust-lang/rust/pull/160538) — Update expect messages in tcp.rs doc examples to follow the style guide |
-| [**agent-skills-with-anthropic**](https://github.com/datawhalechina/agent-skills-with-anthropic) | [![Stars](https://img.shields.io/github/stars/datawhalechina/agent-skills-with-anthropic?style=flat-square&label=%20)](https://github.com/datawhalechina/agent-skills-with-anthropic) | [#1](https://github.com/datawhalechina/agent-skills-with-anthropic/pull/1) [#5](https://github.com/datawhalechina/agent-skills-with-anthropic/pull/5) [#8](https://github.com/datawhalechina/agent-skills-with-anthropic/pull/8) |
-| [**Step-Code**](https://github.com/stepfun-ai/Step-Code) | [![Stars](https://img.shields.io/github/stars/stepfun-ai/Step-Code?style=flat-square&label=%20)](https://github.com/stepfun-ai/Step-Code) | [#16](https://github.com/stepfun-ai/Step-Code/pull/16) — test: add comprehensive test suite (848 tests, 11 files) |
-| [**video-devour**](https://github.com/datawhalechina/video-devour) | [![Stars](https://img.shields.io/github/stars/datawhalechina/video-devour?style=flat-square&label=%20)](https://github.com/datawhalechina/video-devour) | [#24](https://github.com/datawhalechina/video-devour/pull/24) [#28](https://github.com/datawhalechina/video-devour/pull/28) [#29](https://github.com/datawhalechina/video-devour/pull/29) [#30](https://github.com/datawhalechina/video-devour/pull/30) |
+| Project | My merged PRs |
+|---|---|
+| [**cc-switch**](https://github.com/farion1231/cc-switch) | [#7099](https://github.com/farion1231/cc-switch/pull/7099) — fix(claude): allow npm scripts in the primary update path |
+| [**Step-Code**](https://github.com/stepfun-ai/Step-Code) | [#16](https://github.com/stepfun-ai/Step-Code/pull/16) — test: add comprehensive test suite (848 tests, 11 files) |
+| [**rust**](https://github.com/rust-lang/rust) | [#160538](https://github.com/rust-lang/rust/pull/160538) — Update expect messages in tcp.rs doc examples to follow the style guide |
+| [**agent-skills-with-anthropic**](https://github.com/datawhalechina/agent-skills-with-anthropic) | [#1](https://github.com/datawhalechina/agent-skills-with-anthropic/pull/1) [#5](https://github.com/datawhalechina/agent-skills-with-anthropic/pull/5) [#8](https://github.com/datawhalechina/agent-skills-with-anthropic/pull/8) |
+| [**video-devour**](https://github.com/datawhalechina/video-devour) | [#24](https://github.com/datawhalechina/video-devour/pull/24) [#28](https://github.com/datawhalechina/video-devour/pull/28) [#29](https://github.com/datawhalechina/video-devour/pull/29) [#30](https://github.com/datawhalechina/video-devour/pull/30) |
 <!-- END: oss-contributions -->
+
+## Research & learning
+
+<details>
+<summary>Math, language, and inference systems: notes, experiments, and other projects</summary>
+
+The images below are project content diagrams.
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/CacinieP/inference-optimization-index"><img src="./assets/projects/inference.svg" width="300" alt="Inference optimization index content diagram" /></a><p><a href="https://github.com/CacinieP/inference-optimization-index"><strong>Inference optimization index</strong></a><br/>Serving, edge, and general inference resources.</p></td>
+<td width="50%" valign="top"><a href="https://github.com/CacinieP/agent-self-evolution"><img src="./assets/projects/evolution.svg" width="300" alt="Agent self-evolution content diagram" /></a><p><a href="https://github.com/CacinieP/agent-self-evolution"><strong>Agent self-evolution</strong></a><br/>Papers, reproductions, and prototypes.</p></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/CacinieP/AgentEvalOps"><img src="./assets/projects/evalops.svg" width="300" alt="AgentEvalOps content diagram" /></a><p><a href="https://github.com/CacinieP/AgentEvalOps"><strong>AgentEvalOps</strong></a><br/>A UI prototype for regression, drift, and run comparison.</p></td>
+<td width="50%" valign="top"><a href="https://github.com/CacinieP/math-to-deep-learning"><img src="./assets/projects/math-dl.svg" width="300" alt="Math to deep learning content diagram" /></a><p><a href="https://github.com/CacinieP/math-to-deep-learning"><strong>Math to deep learning</strong></a><br/>From paper derivations to GPU training.</p></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/CacinieP/Mathematics-Universe"><img src="./assets/projects/math-universe.svg" width="300" alt="Mathematics Universe content diagram" /></a><p><a href="https://github.com/CacinieP/Mathematics-Universe"><strong>Mathematics Universe</strong></a><br/>Connections across school and entrance-exam mathematics.</p></td>
+<td width="50%" valign="top"><a href="https://github.com/CacinieP/MathConnect"><img src="./assets/projects/mathconnect.svg" width="300" alt="MathConnect content diagram" /></a><p><a href="https://github.com/CacinieP/MathConnect"><strong>MathConnect</strong></a><br/>A matching game for equivalent infinitesimals.</p></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/CacinieP/linguistics-hackathon-S0-deutsch"><img src="./assets/projects/german.svg" width="300" alt="German linguistics hackathon content diagram" /></a><p><a href="https://github.com/CacinieP/linguistics-hackathon-S0-deutsch"><strong>German linguistics hackathon</strong></a><br/>A solo 48-hour language-learning experiment.</p></td>
+<td width="50%" valign="top"><a href="https://github.com/CacinieP/typing-master"><img src="./assets/projects/typing.svg" width="300" alt="Typing Master content diagram" /></a><p><a href="https://github.com/CacinieP/typing-master"><strong>Typing Master</strong></a><br/>Multilingual typing practice.</p></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/CacinieP/music-research"><img src="./assets/projects/music.svg" width="300" alt="Music research content diagram" /></a><p><a href="https://github.com/CacinieP/music-research"><strong>Music research</strong></a><br/>Music understanding, generation, audio, and local deployment.</p></td>
+<td width="50%" valign="top"><a href="https://github.com/CacinieP/FinancialBeancount"><img src="./assets/projects/beancount.svg" width="300" alt="FinancialBeancount content diagram" /></a><p><a href="https://github.com/CacinieP/FinancialBeancount"><strong>FinancialBeancount</strong></a><br/>Local statement conversion and deduplication.</p></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/CacinieP/CICPA-Learning"><img src="./assets/projects/cpa.svg" width="300" alt="CPA learning guide content diagram" /></a><p><a href="https://github.com/CacinieP/CICPA-Learning"><strong>CPA learning guide</strong></a><br/>Subject indexes and study resources.</p></td>
+<td width="50%" valign="top"><a href="https://github.com/CacinieP/LPQE-Learning"><img src="./assets/projects/law.svg" width="300" alt="Legal qualification notes content diagram" /></a><p><a href="https://github.com/CacinieP/LPQE-Learning"><strong>Legal qualification notes</strong></a><br/>Study notes for the legal qualification exam.</p></td>
+</tr>
+</table>
+
+</details>
+
+**Working stack** · Python / TypeScript / Swift / Rust · MCP / Tool Use / VLM / ASR · Tauri / React / GitHub Actions
 
 ---
 
-<p align="center">
-  <a href="https://github.com/CacinieP?tab=repositories">ALL REPOSITORIES</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:cacinie@gmail.com">EMAIL</a>
-</p>
-
-<p align="center">
-  <sub>PARSE INTENT · MODEL CONTEXT · BUILD SYSTEMS</sub>
-</p>
+[All repositories](https://github.com/CacinieP?tab=repositories) · [Portfolio](https://caciniep.github.io/) · [Contact](mailto:cacinie@gmail.com)
